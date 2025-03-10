@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "emoji",
+    "spriteFrames": [
+      "emoji1",
+      "1eda363f-6200-4822-b297-4bf308291d9d@19fe2",
+      "emoji2",
+      "1eda363f-6200-4822-b297-4bf308291d9d@34f21",
+      "emoji3",
+      "1eda363f-6200-4822-b297-4bf308291d9d@ecc53"
+    ]
+  }
+}

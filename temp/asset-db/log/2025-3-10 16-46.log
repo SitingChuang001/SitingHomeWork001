@@ -1,0 +1,1015 @@
+2025-3-10 16:46:21-debug: start **** info
+2025-3-10 16:46:22-log: Cannot access game frame or container.
+2025-3-10 16:46:22-debug: asset-db:require-engine-code (498ms)
+2025-3-10 16:46:22-log: meshopt wasm decoder initialized
+2025-3-10 16:46:22-log: [box2d]:box2d wasm lib loaded.
+2025-3-10 16:46:22-log: [bullet]:bullet wasm lib loaded.
+2025-3-10 16:46:22-log: Cocos Creator v3.8.5
+2025-3-10 16:46:22-log: Using legacy pipeline
+2025-3-10 16:46:23-debug: [Assets Memory track]: asset-db-plugin-register: builder start:87.78MB, end 178.30MB, increase: 90.52MB
+2025-3-10 16:46:23-debug: [Assets Memory track]: asset-db-plugin-register: project start:79.93MB, end 175.32MB, increase: 95.39MB
+2025-3-10 16:46:23-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:79.26MB, end 175.34MB, increase: 96.08MB
+2025-3-10 16:46:22-log: Forward render pipeline initialized.
+2025-3-10 16:46:22-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:29.23MB, end 79.24MB, increase: 50.01MB
+2025-3-10 16:46:22-debug: [Assets Memory track]: asset-db-plugin-register: programming start:80.06MB, end 87.76MB, increase: 7.70MB
+2025-3-10 16:46:23-debug: run package(mac) handler(enable) start
+2025-3-10 16:46:23-debug: run package(native) handler(enable) start
+2025-3-10 16:46:23-debug: run package(native) handler(enable) success!
+2025-3-10 16:46:23-debug: run package(ohos) handler(enable) start
+2025-3-10 16:46:23-debug: run package(ohos) handler(enable) success!
+2025-3-10 16:46:23-debug: run package(mac) handler(enable) success!
+2025-3-10 16:46:23-debug: run package(oppo-mini-game) handler(enable) success!
+2025-3-10 16:46:23-debug: run package(runtime-dev-tools) handler(enable) start
+2025-3-10 16:46:23-debug: run package(oppo-mini-game) handler(enable) start
+2025-3-10 16:46:23-debug: run package(runtime-dev-tools) handler(enable) success!
+2025-3-10 16:46:23-debug: run package(taobao-mini-game) handler(enable) start
+2025-3-10 16:46:23-debug: run package(taobao-mini-game) handler(enable) success!
+2025-3-10 16:46:23-debug: run package(vivo-mini-game) handler(enable) start
+2025-3-10 16:46:23-debug: run package(vivo-mini-game) handler(enable) success!
+2025-3-10 16:46:23-debug: run package(web-desktop) handler(enable) start
+2025-3-10 16:46:23-debug: run package(web-desktop) handler(enable) success!
+2025-3-10 16:46:23-debug: run package(web-mobile) handler(enable) start
+2025-3-10 16:46:23-debug: run package(wechatgame) handler(enable) start
+2025-3-10 16:46:23-debug: run package(wechatgame) handler(enable) success!
+2025-3-10 16:46:23-debug: run package(wechatprogram) handler(enable) start
+2025-3-10 16:46:23-debug: run package(wechatprogram) handler(enable) success!
+2025-3-10 16:46:23-debug: run package(windows) handler(enable) start
+2025-3-10 16:46:23-debug: run package(windows) handler(enable) success!
+2025-3-10 16:46:23-debug: run package(web-mobile) handler(enable) success!
+2025-3-10 16:46:23-debug: run package(xiaomi-quick-game) handler(enable) success!
+2025-3-10 16:46:23-debug: run package(cocos-service) handler(enable) start
+2025-3-10 16:46:23-debug: run package(cocos-service) handler(enable) success!
+2025-3-10 16:46:23-debug: run package(im-plugin) handler(enable) start
+2025-3-10 16:46:23-debug: run package(im-plugin) handler(enable) success!
+2025-3-10 16:46:23-debug: run package(placeholder) handler(enable) start
+2025-3-10 16:46:23-debug: run package(placeholder) handler(enable) success!
+2025-3-10 16:46:23-debug: run package(migu-mini-game) handler(enable) success!
+2025-3-10 16:46:23-debug: run package(xiaomi-quick-game) handler(enable) start
+2025-3-10 16:46:23-debug: run package(migu-mini-game) handler(enable) start
+2025-3-10 16:46:23-debug: asset-db:worker-init: initPlugin (858ms)
+2025-3-10 16:46:23-debug: [Assets Memory track]: asset-db:worker-init start:29.22MB, end 176.55MB, increase: 147.33MB
+2025-3-10 16:46:23-debug: Run asset db hook engine-extends:beforePreStart success!
+2025-3-10 16:46:23-debug: Run asset db hook programming:beforePreStart success!
+2025-3-10 16:46:23-debug: Run asset db hook engine-extends:beforePreStart ...
+2025-3-10 16:46:23-debug: Run asset db hook programming:beforePreStart ...
+2025-3-10 16:46:23-debug: asset-db:worker-init (1465ms)
+2025-3-10 16:46:23-debug: asset-db-hook-programming-beforePreStart (48ms)
+2025-3-10 16:46:23-debug: asset-db-hook-engine-extends-beforePreStart (48ms)
+2025-3-10 16:46:23-debug: Preimport db internal success
+2025-3-10 16:46:23-debug: Preimport db assets success
+2025-3-10 16:46:23-debug: Run asset db hook programming:afterPreStart ...
+2025-3-10 16:46:23-debug: starting packer-driver...
+2025-3-10 16:46:23-debug: initialize scripting environment...
+2025-3-10 16:46:23-debug: [[Executor]] prepare before lock
+2025-3-10 16:46:23-debug: Set detail map pack:///resolution-detail-map.json: {}
+2025-3-10 16:46:23-debug: [[Executor]] prepare after unlock
+2025-3-10 16:46:23-debug: Run asset db hook programming:afterPreStart success!
+2025-3-10 16:46:23-debug: Run asset db hook engine-extends:afterPreStart ...
+2025-3-10 16:46:23-debug: Run asset db hook engine-extends:afterPreStart success!
+2025-3-10 16:46:23-debug: [Assets Memory track]: asset-db:worker-init: preStart start:176.56MB, end 180.06MB, increase: 3.50MB
+2025-3-10 16:46:23-debug: Start up the 'internal' database...
+2025-3-10 16:46:23-debug: asset-db-hook-programming-afterPreStart (336ms)
+2025-3-10 16:46:23-debug: asset-db:worker-effect-data-processing (197ms)
+2025-3-10 16:46:23-debug: asset-db-hook-engine-extends-afterPreStart (197ms)
+2025-3-10 16:46:23-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:176.63MB, end 191.79MB, increase: 15.16MB
+2025-3-10 16:46:23-debug: Start up the 'assets' database...
+2025-3-10 16:46:23-debug: asset-db:worker-startup-database[internal] (440ms)
+2025-3-10 16:46:23-debug: [Assets Memory track]: asset-db:worker-startup-database[assets] start:178.61MB, end 191.86MB, increase: 13.25MB
+2025-3-10 16:46:23-debug: [Assets Memory track]: asset-db:worker-init: startup start:180.07MB, end 191.87MB, increase: 11.80MB
+2025-3-10 16:46:23-debug: lazy register asset handler json
+2025-3-10 16:46:23-debug: lazy register asset handler spine-data
+2025-3-10 16:46:23-debug: lazy register asset handler dragonbones
+2025-3-10 16:46:23-debug: lazy register asset handler dragonbones-atlas
+2025-3-10 16:46:23-debug: lazy register asset handler terrain
+2025-3-10 16:46:23-debug: lazy register asset handler javascript
+2025-3-10 16:46:23-debug: lazy register asset handler scene
+2025-3-10 16:46:23-debug: lazy register asset handler typescript
+2025-3-10 16:46:23-debug: lazy register asset handler prefab
+2025-3-10 16:46:23-debug: lazy register asset handler sprite-frame
+2025-3-10 16:46:23-debug: lazy register asset handler tiled-map
+2025-3-10 16:46:23-debug: lazy register asset handler directory
+2025-3-10 16:46:23-debug: lazy register asset handler image
+2025-3-10 16:46:23-debug: lazy register asset handler sign-image
+2025-3-10 16:46:23-debug: lazy register asset handler alpha-image
+2025-3-10 16:46:23-debug: lazy register asset handler texture
+2025-3-10 16:46:23-debug: lazy register asset handler texture-cube
+2025-3-10 16:46:23-debug: lazy register asset handler buffer
+2025-3-10 16:46:23-debug: lazy register asset handler render-texture
+2025-3-10 16:46:23-debug: lazy register asset handler rt-sprite-frame
+2025-3-10 16:46:23-debug: lazy register asset handler texture-cube-face
+2025-3-10 16:46:23-debug: lazy register asset handler gltf
+2025-3-10 16:46:23-debug: lazy register asset handler gltf-mesh
+2025-3-10 16:46:23-debug: lazy register asset handler text
+2025-3-10 16:46:23-debug: lazy register asset handler gltf-skeleton
+2025-3-10 16:46:23-debug: lazy register asset handler gltf-material
+2025-3-10 16:46:23-debug: lazy register asset handler gltf-embeded-image
+2025-3-10 16:46:23-debug: lazy register asset handler gltf-scene
+2025-3-10 16:46:23-debug: lazy register asset handler fbx
+2025-3-10 16:46:23-debug: lazy register asset handler material
+2025-3-10 16:46:23-debug: lazy register asset handler physics-material
+2025-3-10 16:46:23-debug: lazy register asset handler effect
+2025-3-10 16:46:23-debug: lazy register asset handler effect-header
+2025-3-10 16:46:23-debug: lazy register asset handler audio-clip
+2025-3-10 16:46:23-debug: lazy register asset handler animation-clip
+2025-3-10 16:46:23-debug: lazy register asset handler animation-graph
+2025-3-10 16:46:23-debug: lazy register asset handler animation-graph-variant
+2025-3-10 16:46:23-debug: lazy register asset handler ttf-font
+2025-3-10 16:46:23-debug: lazy register asset handler animation-mask
+2025-3-10 16:46:23-debug: lazy register asset handler bitmap-font
+2025-3-10 16:46:23-debug: lazy register asset handler particle
+2025-3-10 16:46:23-debug: lazy register asset handler auto-atlas
+2025-3-10 16:46:23-debug: lazy register asset handler sprite-atlas
+2025-3-10 16:46:23-debug: lazy register asset handler label-atlas
+2025-3-10 16:46:23-debug: lazy register asset handler erp-texture-cube
+2025-3-10 16:46:23-debug: lazy register asset handler render-stage
+2025-3-10 16:46:23-debug: lazy register asset handler render-flow
+2025-3-10 16:46:23-debug: lazy register asset handler instantiation-material
+2025-3-10 16:46:23-debug: lazy register asset handler instantiation-mesh
+2025-3-10 16:46:23-debug: lazy register asset handler instantiation-skeleton
+2025-3-10 16:46:23-debug: lazy register asset handler instantiation-animation
+2025-3-10 16:46:23-debug: lazy register asset handler video-clip
+2025-3-10 16:46:23-debug: lazy register asset handler render-pipeline
+2025-3-10 16:46:23-debug: lazy register asset handler *
+2025-3-10 16:46:23-debug: lazy register asset handler gltf-animation
+2025-3-10 16:46:23-debug: asset-db:start-database (467ms)
+2025-3-10 16:46:23-debug: asset-db:ready (3289ms)
+2025-3-10 16:46:23-debug: asset-db:worker-startup-database[assets] (397ms)
+2025-3-10 16:46:23-debug: init worker message success
+2025-3-10 16:46:23-debug: programming:execute-script (4ms)
+2025-3-10 16:46:23-debug: [Build Memory track]: builder:worker-init start:190.25MB, end 202.48MB, increase: 12.23MB
+2025-3-10 16:46:23-debug: builder:worker-init (240ms)
+2025-3-10 16:46:29-debug: refresh db internal success
+2025-3-10 16:46:29-debug: refresh db assets success
+2025-3-10 16:46:29-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 16:46:29-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 16:46:29-debug: asset-db:refresh-all-database (30ms)
+2025-3-10 16:46:29-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 16:58:48-debug: refresh db internal success
+2025-3-10 16:58:48-debug: refresh db assets success
+2025-3-10 16:58:48-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 16:58:48-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 16:58:48-debug: asset-db:refresh-all-database (40ms)
+2025-3-10 16:58:48-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 16:58:48-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 16:59:15-debug: refresh db internal success
+2025-3-10 16:59:15-debug: refresh db assets success
+2025-3-10 16:59:15-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 16:59:15-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 16:59:15-debug: asset-db:refresh-all-database (32ms)
+2025-3-10 16:59:15-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 16:59:15-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 16:59:55-debug: refresh db internal success
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3dbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animationbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlasbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbonesbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/importedbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabsbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/texturesbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamobackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEventbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/movebackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widgetbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502bbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/customPropertybackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/motionStreakbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-manbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particlebackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knightbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502bbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new uibackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/slicedbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/tiledbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-iconbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheepbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/mapbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer folder in editor
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/cocosvideo.mp4](7b92981b-aaea-4c77-b86d-0142991ac334)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/sheep_hit.anim](050adbf6-bd66-4a26-ac79-d68c00ad7812)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/sheep_jump.anim](16bb2ab3-4126-4d8f-b2aa-80a216048bfa)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/sheep_run.anim](dce845ca-66a7-44dd-b18c-bd49876e1a9a)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/tipsAnim.anim](171a4ae8-770d-4963-ba5c-88d3d93b1a65)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/cocosvideo.mp4background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/sheep_jump.animbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/sheep_run.animbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/tipsAnim.animbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/sheep_hit.animbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/uibackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.plist](1eda363f-6200-4822-b297-4bf308291d9d)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.plistbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.png](224ce6e8-0e32-430a-9807-9452fc769ac9)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.png](83e05166-d611-452a-ac2f-4cbf5c3d5a06)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist](efc1bbab-8753-4506-859f-0558eb86db31)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plistbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist](55ddbcf7-08e2-4fe0-a2b2-b9ab73af649d)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plistbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.png](9c5ee18c-5b09-4726-b23b-e46e49a1b008)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@52715background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.plist@19fe2background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/barriers.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/barriers.png](7d44317c-27c2-4cf6-a1b8-b2258eb74322)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@71655background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.plist@34f21background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@7cc6bbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@cf181background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/ground.png](64912915-8f49-4b57-abed-8c6ea1d41ae0)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/ground.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@d1ecfbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.plist@ecc53background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@5a1a1background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@acab0background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/hexa.png](5b8b3298-c604-480a-a3f6-c7522f98b0ff)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/hexa.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/hexa.tmx](56ef755b-269a-41e3-8117-0a4d88e366c4)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/hexa.tmxbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@04fb1background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/iso-test.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/iso-test.png](0cf752c8-2374-4e99-b7dd-20069221ff8b)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@6982fbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@614e4background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/iso-test.tmx](6a754d42-47d2-40c1-9a71-9d398894c8e4)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/iso-test.tmxbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/map.tmx](1a4c9585-9c4e-4d61-aa28-166b52945322)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/map.tmxbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@d19ecbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@3b6f1background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@123b8background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@c218bbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/perspective_walls.png](05ec98d6-fdaa-45a0-bbda-62e094226b81)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/perspective_walls.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@2f938background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@4465abackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/perspective_walls.tmx](d0050fe1-0497-4c9c-9e37-ca87343eb6d2)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/perspective_walls.tmxbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/perspective_walls.tsx](fcc394c8-c04a-4ff9-8037-8bd0c119be5f)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/perspective_walls.tsxbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@e0c75background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Background.prefab](b8392351-be97-4f01-985e-3e7d2118f3c9)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Background.prefabbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@d34dfbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@a8883background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@e52ebbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Center Menu.prefab](9819eaa9-8394-43c2-b22c-8ee47df3962a)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Center Menu.prefabbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@6a8f4background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Left Menu.prefab](6c8b509b-c51f-4770-9bb0-9c444abf9c83)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Left Menu.prefabbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/ListItem.prefab](1ea21a34-ca68-4880-8df6-05abb19079fd)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/ListItem.prefabbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@07ea9background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Monster.prefabbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Monster.prefab](460588c6-f354-4f3d-9e80-eae387ded2fe)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@c6353background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Page.prefabbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Page.prefab](9545dbe5-183b-420a-8610-07b70c938504)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Right Menu.prefab](c8233c95-d7d8-432a-a470-7dfd3ec6d9c0)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Search Block.prefabbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Search Block.prefab](3348a65a-a112-4005-88ce-37534ef0f813)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Right Menu.prefabbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/SuspensionTips.prefab](1c2a9087-adac-458b-9cd0-e3a2c745e3b8)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/SuspensionTips.prefabbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/item0.prefabbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/item0.prefab](a8accd2e-6622-4c31-8a1e-4db5f2b568b5)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/loadAnimTest.prefab](f6b3551c-1db7-4f25-80a9-dffee8002b39)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/loadAnimTest.prefabbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/loadItem.prefab](6dc05d62-dd10-4a6b-a05c-ed926b4f3142)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/loadItem.prefabbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/bg.png](e4e220ed-9718-4587-9b54-82ac98f477d4)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/bg.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/close-icon.png](60d1c4d4-5eb7-4b9e-8e6e-4f1fa16effbb)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/close-icon.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/cocos_creator.jpgbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/cocos_creator.jpg](86678c0e-f8e7-409c-9ddf-e0a9bf555269)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/cocos_creator_white.jpg](7b31062d-9e8e-4805-b77a-739a8295d9d0)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/content.png](6b4faed5-abc3-4a77-af9d-35ed67a5a48b)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/content.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/cocos_creator_white.jpgbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/content_mipmap.png](d085509a-4690-4bef-94c7-36ee8e861e0f)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/content_mipmap.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/default_scrollbar_bg.png](206c3040-b374-40dc-a9ca-8800e556fba6)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/default_scrollbar_bg.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/gold.png](99ce2773-c288-4d67-9868-27bb8d5e9ea9)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/gold.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/default_scrollbar_vertical_bg.png](10f4622b-d456-4ba5-a166-e99804d9c397)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/default_scrollbar_vertical_bg.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/goldcoin.png](6ee311af-2e56-480a-98dd-ee63e3d5b24c)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/goldcoin.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/scrollbar.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/scrollbar.png](4177692d-029f-445b-979b-f64421e6eafe)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/scrollbarVertical.png](1c211f8f-6068-423b-8de2-9c4735427d7d)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/scrollbarVertical.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/singleColor.png](1b6a0b3c-2a0e-410a-95ab-53dc9a03a360)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/singleColor.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/scrollviewbg.png](da3df600-014d-40e1-8d48-c3800523e5e3)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/star.png](b11c4d7c-b15b-4eb6-883b-1697c1388e21)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/star.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/scrollviewbg.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/star_slot.png](3a46cb4c-2b90-46b1-8079-3465930c1de5)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/star_slot.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/tab-bg.png](513b8e0b-2ccd-4001-bfac-d3637a7cbdac)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/tab-bg.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx(1.1.21)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx(2.0.8)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx(2.0.0)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx(2.1.9)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx(2.2.0)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx(2.3.0)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx(2.3.2)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx(2.3.5)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx(2.3.7)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx(2.3.12)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx(2.3.13)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbxbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx(1.1.21)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx(1.1.23)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx(1.3.0)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx(1.3.21)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx(2.0.0)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx(2.0.8)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx(1.1.23)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx(2.3.0)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx(2.3.2)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx(2.3.5)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx(2.3.7)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx(2.3.12)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx(2.3.13)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbxbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx(2.2.0)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx(1.3.0)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx(2.1.9)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx(1.3.21)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx(1.1.21)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx(2.0.8)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx(2.0.0)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx(1.3.0)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx(1.3.21)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx(1.1.23)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx(2.1.9)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx(2.2.0)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx(2.3.0)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx(2.3.2)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx(2.3.5)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx(2.3.7)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx(2.3.12)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cMigrate%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx(2.3.13)background: #fbe5b5; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbxbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_1.anim](ee942c08-c2a8-421e-bfbe-498229084afe)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_1.animbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_2.anim](142dce2a-9f39-49e2-91c4-b62c5781d1a7)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_2.animbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_3.anim](8456f3b4-0998-49ea-aeae-d5e8985ad816)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_3.animbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_4.animbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_4.anim](c6322309-085e-49d1-a5e3-40d71598fd1f)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/customProperty/customAnim.anim](9b0754b9-bbfc-4259-8e63-91f3436f8679)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/customProperty/customAnim.animbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/motionStreak/move_around.anim](1228ce55-ab81-40eb-8b0b-43fbcfe38d58)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/motionStreak/move_around.animbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/back-forward.anim](3cfdb519-2f4e-4b8f-a3b6-bc3d55d6ffae)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/back-forward.animbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/caseIn-expo.animbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/caseIn-expo.anim](5d29daeb-8963-4e11-8a16-9a1194ee58ca)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/caseInOut-expo.anim](4bffeeee-f2c6-4bec-ba74-cd671d12709b)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/caseInOut-expo.animbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/caseOut-expo.anim](49c166a6-94ae-4b97-ab22-b1b46e001d73)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/caseOut-expo.animbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/linear.animbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/linear.anim](4bb25e27-63ac-4ec7-aec9-d89d1cc5b619)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget/alignOnce_scale.anim](c0dcd181-8289-4a0a-a9e3-31bd10f2ff3f)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget/alignOnce_scale.animbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget/rightWidget.anim](33b23c50-d7b5-4df6-a861-d2e76565fdca)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget/rightWidget.animbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget/topWidget.anim](5d0f5d8c-368f-4b56-820f-d846602301a8)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget/topWidget.animbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b/mecha_1502b_ske.json](33924d89-24ce-47dd-937a-58de4bfa46e6)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b/mecha_1502b_ske.jsonbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b/mecha_1502b_tex.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b/mecha_1502b_tex.json](cf1dcd14-ed5d-4297-aa09-7e98b52308a9)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b/mecha_1502b_tex.png](bc83c66d-ed49-49ef-8f9a-6117e60dc489)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b/mecha_1502b_tex.jsonbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b/skin_1502b_ske.json](3bb9be4b-9553-492e-bf8c-4e662f115fd0)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b/skin_1502b_ske.jsonbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b/skin_1502b_tex.json](a98d964a-ea21-4949-80e0-4c20f86b3d7e)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b/skin_1502b_tex.jsonbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b/skin_1502b_tex.png](7fb26f28-3aae-4403-a40f-e6803496c7ae)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b/skin_1502b_tex.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-log: Can not find the importer dragonbones-bin in editor
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man/SwordsMan_ske.dbbinbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man/SwordsMan_tex.json](6684b89f-54ee-4c2f-8ca0-4481f35f9d37)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man/SwordsMan_tex.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man/SwordsMan_tex.png](409c80c2-e957-4f23-9af5-ddb362345ce4)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man/SwordsMan_tex.jsonbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000/weapon_1000_ske.json](c78dc981-2031-4698-b43d-93f12a9e9bf3)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000/weapon_1000_ske.jsonbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000/weapon_1000_tex.json](78e6321b-7039-4762-9fdc-f82cd2a8d498)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000/weapon_1000_tex.png](7637ab36-dfa5-438f-852d-c47577d75f75)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000/weapon_1000_tex.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000/weapon_1000_tex.jsonbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle/atom.plist](e24fa342-815a-4478-b9db-ed592e7c0293)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle/atom.plistbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle/smoke.plist](bbf8cf2e-79ac-4dba-b059-768cbb44e3d1)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle/smoke.plistbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle/smoke.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle/smoke.png](6f932e68-4c0f-4291-9759-852e509d2e83)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/BuleMonster.png](c09681b1-0c3e-4794-b687-1756e646d970)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/BuleMonster.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/GreenMonster.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/GreenMonster.png](08c1edea-46d4-41de-99dd-4f8b7f6b43b3)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/PurpleMonster.png](18041d7f-7c6a-47bd-ab6f-7a18b404a214)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/RedMonster.png](8a6c5830-4127-4ddb-a3e6-028b3f793e83)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/RedMonster.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/PurpleMonster.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/YellowMonster.png](15ade27e-0212-4775-b5e4-8a8a258e8b63)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/YellowMonster.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/btn_disabled.png](8a60351e-d9cc-46f4-b1d6-6cde36a5b9ad)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/btn_disabled.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/btn_normal.png](eb06a97a-5161-4d70-bac7-8a8f885f8399)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/btn_normal.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/btn_pressed.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/btn_pressed.png](4e02ec2c-860e-43cc-9910-8ff2aa151884)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/editbox_bg.png](0439ddbc-5893-4fd0-a233-d0f5e51ba5cd)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/editbox_bg.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/AutoAtlas.pac](0ee46d3e-e838-41ae-9725-11eb2b683ba6)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/AutoAtlas.pacbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_down_0.png](0e4e6493-4250-4ed9-9a37-d0a9f0663113)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_down_0.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_down_1.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_down_1.png](8557c6d3-9eef-4b28-ac59-5d7337da100b)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_down_2.png](dca29d40-5407-41b4-939d-34e72d3b00c2)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_down_2.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_0.png](34ee9b9b-b514-4973-9cd4-cd15aafffe8b)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_0.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_1.png](a8f423a1-2069-4df5-a3a8-ea3ca8e11a6c)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_1.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_2.png](c06cee9f-0b1a-41ea-9c1b-6dfeed3b3661)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_2.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_3.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_3.png](ecf333cf-99ed-4814-990d-3109890fbd5e)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_4.png](b976bd65-a4ca-467f-bca0-11f0ebea51f0)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_4.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_0.png](c6e4d9aa-bab9-4b01-974e-1ba6747af9c1)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_0.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_1.png](c5a5b09c-e012-4da8-a31b-d1f541f64bf4)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_1.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_2.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_2.png](1ba0dabd-fc65-4172-adee-e9167c6eb9ad)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_3.png](7f97cb41-6ad1-45f7-afd9-3f9428490731)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_3.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_touch_0.png](58fccb23-5c29-47f0-9545-7a82f23ca5ae)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_touch_0.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_empty.png](dadab157-3ee8-4617-a29c-54d5b4fb7aa8)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_empty.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_green.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_green.png](c82179a5-676d-423c-8de2-22874b5f4a6d)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_green_p2.png](87589cb6-1ba7-4961-83ec-bb8e7edb1991)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_green_p2.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_green_un2.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_green_un2.png](ca4be22c-42c0-4632-9225-cd95960fdd79)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/panel_bg.png](6fd1ec90-efab-41ec-ab6b-4cd6a085951d)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/panel_bg.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/panel_black.png](993f03a1-0964-4c0e-913b-344be7363e8c)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/panel_black.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/panel_highlight.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/panel_highlight.png](5b540dd3-1633-495a-9c83-4e62cdd75faa)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/ui_panel.png](e2f89568-b554-41b7-a21a-b3a03b3c5431)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/ui_panel.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/tiled/barBg.png](e51ceb1c-f6c3-43f4-813b-a8d78bb48259)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/tiled/barBg.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/videplayIcon.jpg](f6e0bec5-d58c-4287-885c-74feecfba31e)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/videplayIcon.jpgbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/alter.png](571c9922-f406-4da0-a534-2b2fe7aa9e3c)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/alter.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundArch.png](a59dbc5e-6415-4483-8869-6b34ac2399a0)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundArch.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundMountain.png](2673e1d0-1f62-4e41-a9a1-efb6c5739c2f)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundMountain.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundTower.png](3cde584f-f6dc-4a5a-9a50-0d6967e07809)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundTower.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundTree.png](5a62159c-a097-4070-856b-44ad742fcd2f)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundTree.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/blobBlue.png](38bd2815-3c6f-4e18-8e59-0f67c2c9e3e6)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/blobBlue.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/blobGreen.png](c457a61b-aaaa-4032-a93e-99c5e5af56c6)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/blobGreen.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/blue.png](712f2862-d5d6-4515-97a5-93dd77a27b0c)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/blue.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/bombStroked.png](3b2c4478-ed0f-4158-9c5b-f6e5a6a42dae)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/castleWall.png](03c08923-ea92-4244-8ea9-5e68413de64a)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/bombStroked.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/castleWall.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/cloud.png](43d6aecc-a869-4b19-9d5a-b8193d165956)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/cloud.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/column1.png](1ffa5836-3549-4067-9342-361ce34fcd0b)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/column1.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/column2.png](2176d9c9-ee89-4d38-83ff-7804866d1611)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/column2.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorBlueStroked.png](b7f9aa1c-bca6-4f5b-b6ce-f1a553f248b0)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorBlueStroked.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorGreenStroke.png](9e4da3f1-0428-4b2d-b0a4-271d54b781e9)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorGreenStroke.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorRedStroked.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorRedStroked.png](aa74ff5a-fb7f-419f-9f31-32054309242f)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorStroked.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorStroked.png](4273e58d-60a0-4b8c-b0cc-8f6995524df3)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/earthWall.png](12962aaa-1fad-47cd-a2f0-76a3be7fa124)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/earthWall.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/earthWall2.png](6236372d-1203-4399-aa37-a2ce41265bba)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/earthWall2.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/exit.png](ebec7c27-249f-431b-89eb-9d469a5382dd)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/exit.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/flare.png](2e3337f7-eca4-494e-8378-fcdf590b49e7)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/flare.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/gemBlueStroked.png](79beb253-5271-4946-9f33-41c2337cf76d)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/gemBlueStroked.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/gemRedStroked.png](699c80cf-50d6-4c1e-8a16-25e446a34994)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/gemRedStroked.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/grassLarge.png](793f66e7-3faa-4521-9d7b-7a3fe742eaad)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/grassLarge.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/grassSmall.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/grassSmall.png](b84fa1ae-7da7-412a-bc34-751899920d13)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/grey.png](241b0753-a0a1-4ffc-a65f-c11eaefe3934)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/grey.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/hero.png](c2df56c0-4ed3-46da-8508-0a980cd3a561)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/hero.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/keyGreenStroked.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/keyGreenStroked.png](3e241534-0276-425f-a912-9bfd9594fe53)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/keyRedStroked.png](8483db6b-b31d-40bb-8516-6fd2f980e88e)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/keyRedStroked.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/keyYellowStroked.png](c53963d3-b1f0-42ab-ad3f-f5a5072e2808)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/keyYellowStroked.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform1.png](66c4f3bf-1f8f-460d-8030-e4a409212099)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform1.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform2.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform2.png](da98947a-fe8e-4585-8b19-b10b8ba9a294)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform3.png](2a813872-4c6d-4ae6-b3c2-d5c4040149df)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform3.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform4.png](0c24da73-28a5-4872-a14c-4b75fc44295d)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform4.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase1.png](fa95c2d3-727e-4836-a554-6ceca89b1569)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase1.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase2.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase2.png](d5b72eb8-2e6f-4bef-9b9a-473483d124be)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase3.png](687ac02f-fa70-436c-860d-34d2d459d238)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase3.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase4.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase4.png](52e5788e-a077-44de-865b-e765ecda1a8f)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock1.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock1.png](bc4750f9-8862-4481-9103-43158123aaad)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock2.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock2.png](2735ba13-5983-4f4d-b667-f1a88cd9d262)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock3.png](06485a3c-ef0b-47ed-a5a9-43ce644a639d)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock3.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock4.png](23f2022c-580d-47ad-a146-68f0ecc90505)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock4.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector1.png](9537ad12-c326-4e5b-a541-dabd1faae5bd)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector1.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector2.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector2.png](a654e242-dcca-4bd5-b80a-d3a2dbea534f)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector3.png](e19f6d69-fad6-4f7b-9b13-b2abd1ced2ff)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector3.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector4.png](8af0061a-e05e-4f49-b9ab-df62dbdfe2f7)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector4.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/pushBlock1.png](d53e25d2-ff5d-43eb-a1a1-8789b9c37d70)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/pushBlock1.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/pushBlock2.png](3fc6d752-ad3b-4f42-9315-80e20e982b21)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/pushBlock2.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/pushBlock3.png](b8599e9e-be8d-44c6-a2ae-959c32ff1f33)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/pushBlock3.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sandbox.tmx](5b10793f-34e1-4b9c-a27b-ebdaaa164219)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sandbox.tmxbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sandbox2.tmxbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sandbox2.tmx](7fff53ca-4944-4e69-8989-569d86a38dcb)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/shadow.png](b7454a1b-4384-4f59-895c-f52778ecc334)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/shadow.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/shieldStroked.png](fa5ab972-e225-4abb-978a-9539213468f4)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/shieldStroked.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sign.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sign.png](d999ef05-3213-4e3b-b269-59b7fdc7f121)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/skeleton.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/skeleton.png](4a6666e5-1f77-4389-917d-5dbd5be562dd)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/swordStroked.png](e1a5271d-1c79-4008-8bf7-71860cec788c)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/swordStroked.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/torch.png](3536bab4-320c-4972-bb37-d95accaed487)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/torch.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/trap.png](8b29c0ca-8347-4f23-b879-4b1a99efdbce)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/trap.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/wallDecor1.png](dfcdda2a-0263-467d-b896-2a009cc55092)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/wallDecor1.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/wallDecor2.png](c2ab4fd9-6f72-416b-bd4e-222ff2556888)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/wallDecor2.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/wallDecor3.png](38680104-cdc7-4fb2-b7e6-5ad16033f123)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/wallDecor3.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/window1.png](74652ef9-5b79-4291-bffa-7ae434cc6d1c)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/window1.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/window2.png](6f68b77e-764d-40a7-88dc-4ae63c8f17ea)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/window2.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/window3.png](e92dfaad-b97e-433a-98f3-ec26bda551c6)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/window3.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/add.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/add.png](1d99a296-6ea0-4346-bd03-1b13c518f3aa)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/attention.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/attention.png](c5faabeb-c5b8-4134-8226-44164d39aa37)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/attention_padded.png](2861c917-9b98-4769-b0d8-99f6f7e39d5d)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/attention_padded.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnDisabled.png](79b9d085-0ee7-4f1f-9ab9-41c4155625da)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnDisabled.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnHover.png](542775e5-f868-48be-b020-05466b3de40e)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnHover.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnNormal.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnNormal.png](35bf1053-d4ee-4720-956c-04169a1b9719)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnPressed.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnPressed.png](abdc7af3-8d4e-4992-98b6-09c2a5df60f5)}: The importer version is lower than asset
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btn_options.png](2ae62c6d-8c27-4800-827a-1986615bcd74)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btn_options.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btn_play.png](c04ffa62-4ce9-4e03-a89d-3f7602790c0a)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btn_play.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/cancel.png](791ab0b9-e42f-43ec-b3f3-9fd72ea55a61)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/cancel.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/panelBG.png](3229feab-b062-4c75-ad91-b962602def21)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/panelBG.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/question.png](69eedb09-a9f2-4027-8d1d-d694f811cd82)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/question.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/restart.png](88ef086b-eac8-4c51-988f-daa12ea2123e)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/restart.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/setup.png](96b543c4-0236-4db7-81ad-f4a420be6dcb)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/setup.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/bg.png](5c4847ba-7145-41ca-b78a-26a44dbda85b)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/bg.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/btn_normal.png](7aff329d-5d53-4659-8a29-5403bcc104a0)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/btn_normal.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/btn_pressed.png](e832cb5b-fd18-4945-8b55-7e620519a260)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/btn_pressed.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/scrollview_bar.png](53e8405d-866f-4771-921d-1c059e8849ce)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/scrollview_bar.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:55-warn: Importer exec warning: {asset[/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/scrollview_bg.png](068000cd-e4ad-47b6-8634-ea4c5fe11f4d)}: The importer version is lower than asset
+2025-3-10 16:59:55-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/scrollview_bg.pngbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:56-debug: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx is converted to: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/temp/asset-db/assets/fbx2gltf-5c76f955-1f6c-4642-9d3c-fbe71920e957/out/out.gltf
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx@30732background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx@01512background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx@eca75background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx@1423abackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx@f1394background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx@0f0f9background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx@124e8background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx@b0785background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx is converted to: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/temp/asset-db/assets/fbx2gltf-b9f2d2cf-b77c-4cdf-9231-1a8b0fa67694/out/out.gltf
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx@30732background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx@01512background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx@eca75background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx@bef1abackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx@f1394background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx@0f0f9background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx@124e8background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx@d2614background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx is converted to: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/temp/asset-db/assets/fbx2gltf-d3ea15fb-3c29-4d96-8c92-56627ef06f12/out/out.gltf
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx@30732background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx@01512background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx@eca75background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx@18d6fbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx@f1394background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx@0f0f9background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx@124e8background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx@0551cbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: refresh db assets success
+2025-3-10 16:59:57-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 16:59:57-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 16:59:57-debug: asset-db:refresh-all-database (2875ms)
+2025-3-10 16:59:57-debug: asset-db:worker-effect-data-processing (2ms)
+2025-3-10 16:59:57-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b/mecha_1502b_tex.jsonbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.plistbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/perspective_walls.tmxbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b/skin_1502b_tex.jsonbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.plist@19fe2background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man/SwordsMan_tex.jsonbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.plist@34f21background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.plist@ecc53background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000/weapon_1000_tex.jsonbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plistbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sandbox.tmxbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sandbox2.tmxbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plistbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@71655background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@cf181background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@52715background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@5a1a1background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@7cc6bbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@d1ecfbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@04fb1background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@614e4background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@acab0background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@3b6f1background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@6982fbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@c218bbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@d19ecbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@4465abackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@123b8background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@d34dfbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@2f938background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@e52ebbackground: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@e0c75background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@a8883background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@6a8f4background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@07ea9background: #aaff85; color: #000;color: #000;
+2025-3-10 16:59:57-debug: %cReImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@c6353background: #aaff85; color: #000;color: #000;
+2025-3-10 17:00:24-debug: start refresh asset from /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/mainScene.scene...
+2025-3-10 17:00:24-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/mainScene.scenebackground: #aaff85; color: #000;color: #000;
+2025-3-10 17:00:24-debug: refresh asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets success
+2025-3-10 17:00:43-debug: refresh db internal success
+2025-3-10 17:00:43-debug: refresh db assets success
+2025-3-10 17:00:43-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:00:43-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:00:43-debug: asset-db:refresh-all-database (42ms)
+2025-3-10 17:00:43-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:00:43-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:01:06-debug: start refresh asset from /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts...
+2025-3-10 17:01:06-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scriptsbackground: #aaff85; color: #000;color: #000;
+2025-3-10 17:01:06-debug: refresh asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets success
+2025-3-10 17:01:34-debug: start refresh asset from /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts/sheepView.ts...
+2025-3-10 17:01:34-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts/sheepView.tsbackground: #aaff85; color: #000;color: #000;
+2025-3-10 17:01:34-debug: refresh asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts success
+2025-3-10 17:01:35-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scriptsbackground: #aaff85; color: #000;color: #000;
+2025-3-10 17:04:57-debug: refresh db internal success
+2025-3-10 17:04:57-debug: refresh db assets success
+2025-3-10 17:04:57-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:04:57-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:04:57-debug: asset-db:refresh-all-database (46ms)
+2025-3-10 17:04:57-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:04:57-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:05:04-debug: refresh db internal success
+2025-3-10 17:05:04-debug: refresh db assets success
+2025-3-10 17:05:04-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:05:04-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:05:04-debug: asset-db:refresh-all-database (50ms)
+2025-3-10 17:05:04-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:05:04-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:05:07-debug: refresh db internal success
+2025-3-10 17:05:07-debug: refresh db assets success
+2025-3-10 17:05:07-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:05:07-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:05:07-debug: asset-db:refresh-all-database (45ms)
+2025-3-10 17:05:07-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:05:40-debug: refresh db internal success
+2025-3-10 17:05:40-debug: refresh db assets success
+2025-3-10 17:05:40-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:05:40-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:05:40-debug: asset-db:refresh-all-database (40ms)
+2025-3-10 17:05:40-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:05:40-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:06:50-debug: refresh db internal success
+2025-3-10 17:06:50-debug: refresh db assets success
+2025-3-10 17:06:50-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:06:50-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:06:50-debug: asset-db:worker-effect-data-processing (2ms)
+2025-3-10 17:06:50-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-3-10 17:06:50-debug: asset-db:refresh-all-database (52ms)
+2025-3-10 17:08:24-debug: refresh db internal success
+2025-3-10 17:08:24-debug: refresh db assets success
+2025-3-10 17:08:24-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:08:24-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:08:24-debug: asset-db:refresh-all-database (44ms)
+2025-3-10 17:08:24-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:08:24-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:09:08-debug: refresh db internal success
+2025-3-10 17:09:08-debug: refresh db assets success
+2025-3-10 17:09:08-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:09:08-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:09:08-debug: asset-db:refresh-all-database (46ms)
+2025-3-10 17:09:08-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:09:08-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:10:04-debug: start refresh asset from /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabs...
+2025-3-10 17:10:04-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabsbackground: #aaff85; color: #000;color: #000;
+2025-3-10 17:10:04-debug: refresh asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets success
+2025-3-10 17:10:08-debug: start refresh asset from /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabs/SheepPrefab.prefab...
+2025-3-10 17:10:08-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabs/SheepPrefab.prefabbackground: #aaff85; color: #000;color: #000;
+2025-3-10 17:10:08-debug: refresh asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabs success
+2025-3-10 17:10:09-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabsbackground: #aaff85; color: #000;color: #000;
+2025-3-10 17:10:41-debug: programming:execute-script (1ms)
+2025-3-10 17:10:44-debug: start remove asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabs/SheepPrefab.prefab...
+2025-3-10 17:10:44-debug: start refresh asset from /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabs/SheepPrefab.prefab...
+2025-3-10 17:10:44-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabs/SheepPrefab.prefabbackground: #ffb8b8; color: #000;color: #000;
+2025-3-10 17:10:44-debug: refresh asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabs success
+2025-3-10 17:10:44-debug: remove asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabs/SheepPrefab.prefab success
+2025-3-10 17:10:44-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabsbackground: #aaff85; color: #000;color: #000;
+2025-3-10 17:11:25-debug: refresh db internal success
+2025-3-10 17:11:25-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:11:25-debug: refresh db assets success
+2025-3-10 17:11:25-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:11:25-debug: asset-db:refresh-all-database (47ms)
+2025-3-10 17:11:25-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:11:25-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:11:36-debug: refresh db internal success
+2025-3-10 17:11:36-debug: refresh db assets success
+2025-3-10 17:11:36-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:11:36-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:11:36-debug: asset-db:refresh-all-database (40ms)
+2025-3-10 17:11:36-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:11:36-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:12:30-debug: refresh db internal success
+2025-3-10 17:12:30-debug: refresh db assets success
+2025-3-10 17:12:30-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:12:30-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:12:30-debug: asset-db:refresh-all-database (32ms)
+2025-3-10 17:12:30-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:13:32-debug: refresh db internal success
+2025-3-10 17:13:32-debug: refresh db assets success
+2025-3-10 17:13:32-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:13:32-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:13:32-debug: asset-db:refresh-all-database (45ms)
+2025-3-10 17:13:32-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:13:32-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:14:01-debug: refresh db internal success
+2025-3-10 17:14:01-debug: refresh db assets success
+2025-3-10 17:14:01-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:14:01-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:14:01-debug: asset-db:refresh-all-database (36ms)
+2025-3-10 17:14:01-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:14:01-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:15:50-debug: Cannot find the asset handler of operate open for importer animation-clip
+2025-3-10 17:18:58-debug: refresh db internal success
+2025-3-10 17:18:58-debug: refresh db assets success
+2025-3-10 17:18:58-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:18:58-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:18:58-debug: asset-db:refresh-all-database (25ms)
+2025-3-10 17:18:58-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:18:58-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:19:15-debug: refresh db internal success
+2025-3-10 17:19:15-debug: refresh db assets success
+2025-3-10 17:19:15-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:19:15-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:19:15-debug: asset-db:refresh-all-database (24ms)
+2025-3-10 17:19:15-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:19:15-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@04fb1
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@614e4
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@cf181
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@71655
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@5a1a1
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/emoji.plist@19fe2
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/emoji.plist@34f21
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/emoji.plist@ecc53
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@c218b
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@7cc6b
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@d1ecf
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@acab0
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@52715
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@6982f
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@d19ec
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@123b8
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@2f938
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@e0c75
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@a8883
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@6a8f4
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@07ea9
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@c6353
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@4465a
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@d34df
+2025-3-10 17:19:25-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@e52eb
+2025-3-10 17:19:25-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@3b6f1
+2025-3-10 17:19:26-debug: refresh db internal success
+2025-3-10 17:19:26-debug: refresh db assets success
+2025-3-10 17:19:26-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:19:26-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:19:26-debug: asset-db:refresh-all-database (29ms)
+2025-3-10 17:19:26-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:19:26-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@04fb1
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@71655
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@cf181
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@614e4
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@5a1a1
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/emoji.plist@ecc53
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/emoji.plist@34f21
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@c218b
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@7cc6b
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@d1ecf
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@acab0
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@3b6f1
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@6982f
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@52715
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@d19ec
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/emoji.plist@19fe2
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@2f938
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@123b8
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@e0c75
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@6a8f4
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@a8883
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@07ea9
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@c6353
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@4465a
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@d34df
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@e52eb
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:36-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:19:37-debug: refresh db internal success
+2025-3-10 17:19:37-debug: refresh db assets success
+2025-3-10 17:19:37-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:19:37-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:19:37-debug: asset-db:refresh-all-database (27ms)
+2025-3-10 17:20:55-debug: refresh db internal success
+2025-3-10 17:20:55-debug: refresh db assets success
+2025-3-10 17:20:55-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:20:55-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:20:55-debug: asset-db:refresh-all-database (31ms)
+2025-3-10 17:20:55-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:20:55-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:22:54-debug: refresh db internal success
+2025-3-10 17:22:54-debug: refresh db assets success
+2025-3-10 17:22:54-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:22:54-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:22:54-debug: asset-db:refresh-all-database (36ms)
+2025-3-10 17:22:54-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:22:54-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:23:05-warn: Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
+2025-3-10 17:23:30-debug: refresh db internal success
+2025-3-10 17:23:30-debug: refresh db assets success
+2025-3-10 17:23:30-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:23:30-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:23:30-debug: asset-db:refresh-all-database (41ms)
+2025-3-10 17:23:30-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:23:30-debug: asset-db:worker-effect-data-processing (1ms)

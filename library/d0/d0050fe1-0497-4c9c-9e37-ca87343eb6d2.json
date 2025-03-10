@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.TiledMapAsset",
+  "_name": "perspective_walls",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "tmxXmlStr": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<map version=\"1.0\" orientation=\"orthogonal\" width=\"32\" height=\"32\" tilewidth=\"31\" tileheight=\"31\">\n <tileset firstgid=\"1\" source=\"perspective_walls.tsx\"/>\n <layer name=\"Walls\" width=\"32\" height=\"32\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJztlOkKgCAQhLfb7vd/24SUBqMMNevHfDB4LczusihCCCHkTzRay4XaDP7rxf1882ZpzBqTp/Wo4c7ulRy96LUKRx3EFYF5+GpESpA9V845pT/Oxijn+luIw36k8vf1Rpk1xPepx9vczV+O3GL6n4JJ9vkSOf8/Qwb/r+vHP8ZVzFwTQshf2AA5owLB\n  </data>\n </layer>\n <layer name=\"Walls level 2\" width=\"32\" height=\"32\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJztzgEJAAAIA7CD/Tsb4yJbgiUA8MO0AwAAhy0rhAAE\n  </data>\n </layer>\n <layer name=\"Walls level 3\" width=\"32\" height=\"32\">\n  <data encoding=\"base64\" compression=\"zlib\">\n   eJztzjENAAAIA7Al+PeMgz0cPK2CJgBwN98BAACqBS0QAAQ=\n  </data>\n </layer>\n</map>\n",
+  "tsxFiles": [
+    {
+      "__uuid__": "fcc394c8-c04a-4ff9-8037-8bd0c119be5f",
+      "__expectedType__": "cc.TextAsset"
+    }
+  ],
+  "tsxFileNames": [
+    "perspective_walls.tsx"
+  ],
+  "spriteFrames": [
+    {
+      "__uuid__": "05ec98d6-fdaa-45a0-bbda-62e094226b81@f9941",
+      "__expectedType__": "cc.SpriteFrame"
+    }
+  ],
+  "imageLayerSpriteFrame": [],
+  "imageLayerSpriteFrameNames": [],
+  "spriteFrameNames": [
+    "perspective_walls.png"
+  ],
+  "spriteFrameSizes": [
+    {
+      "__type__": "cc.Size",
+      "width": 256,
+      "height": 256
+    }
+  ]
+}
