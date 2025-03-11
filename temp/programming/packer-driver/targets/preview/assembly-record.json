@@ -142,6 +142,18 @@
       },
       "timestamp": 1741596012401
     },
+    "c8f42b2d41ca7efe7b3e1f2ce32707d09895b22c": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1741597295002
+    },
     "93ba276ea7b26ffcdc433fab14afc1ed6f05647b": {
       "imports": {
         "__unresolved_0": {
@@ -285,11 +297,11 @@
           "messages": []
         }
       },
-      "timestamp": 1741596383348
+      "timestamp": 1741657171752
     },
     "6a5019a719a9014c047e67aa1cf34453ab8392ce": {
       "imports": {},
-      "timestamp": 1741596383362
+      "timestamp": 1741657171766
     },
     "6d8fd2b0177941b032ddc0733af48a561fb60657": {
       "imports": {
@@ -338,14 +350,14 @@
         "__unresolved_6": {
           "resolved": {
             "type": "chunk",
-            "id": "c8f42b2d41ca7efe7b3e1f2ce32707d09895b22c"
+            "id": "610f3ba312810f877eabdd55e8203211e001792b"
           },
           "messages": []
         }
       },
-      "timestamp": 1741597294988
+      "timestamp": 1741659720668
     },
-    "c8f42b2d41ca7efe7b3e1f2ce32707d09895b22c": {
+    "610f3ba312810f877eabdd55e8203211e001792b": {
       "imports": {
         "cc": {
           "resolved": {
@@ -355,7 +367,7 @@
           "messages": []
         }
       },
-      "timestamp": 1741597295002
+      "timestamp": 1741659720681
     }
   },
   "entries": {
@@ -367,6 +379,6 @@
     "file:///Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline-types.ts": "ad4471749ee2670f87f75e8dfc6d6eadc58f7496",
     "file:///Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline.ts": "977af1171136a24400239ed262f40b7207483423",
     "file:///Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "3f836b73eb0384e41dadfab72b683f449670040c",
-    "file:///Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts/sheepView.ts": "c8f42b2d41ca7efe7b3e1f2ce32707d09895b22c"
+    "file:///Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts/boyPrefab.ts": "610f3ba312810f877eabdd55e8203211e001792b"
   }
 }

@@ -1,1595 +1,6 @@
 {
   "version": "1.0.0",
   "map": {
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res.meta": {
-      "time": 1741597195110.0598
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d.meta": {
-      "time": 1741597195110.3438
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation.meta": {
-      "time": 1741597195110.508
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas.meta": {
-      "time": 1741597195110.6553
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones.meta": {
-      "time": 1741597195110.7883
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported.meta": {
-      "time": 1741597195111.663
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs.meta": {
-      "time": 1741597195112.1707
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures.meta": {
-      "time": 1741597195112.6196
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo.meta": {
-      "time": 1741597195113.0742
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent.meta": {
-      "time": 1741597195113.583
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/customProperty.meta": {
-      "time": 1741597195114.2336
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/motionStreak.meta": {
-      "time": 1741597195114.6255
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move.meta": {
-      "time": 1741597195115.0054
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget.meta": {
-      "time": 1741597195115.3857
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b.meta": {
-      "time": 1741597195115.7693
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b.meta": {
-      "time": 1741597195116.6072
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man.meta": {
-      "time": 1741597195116.9656
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000.meta": {
-      "time": 1741597195117.2922
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle.meta": {
-      "time": 1741597195117.9595
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight.meta": {
-      "time": 1741597195118.4475
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon.meta": {
-      "time": 1741597195119.0356
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui.meta": {
-      "time": 1741597195119.3953
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep.meta": {
-      "time": 1741597195119.759
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced.meta": {
-      "time": 1741597195120.087
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/tiled.meta": {
-      "time": 1741597195120.4126
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui.meta": {
-      "time": 1741597195120.8794
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map.meta": {
-      "time": 1741597195121.231
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1.meta": {
-      "time": 1741597195121.5503
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2.meta": {
-      "time": 1741597195121.897
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res": {
-      "time": 1741596665109.0881,
-      "uuid": "41ab25f2-bf0a-4c4b-b238-2603528133d3"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d": {
-      "time": 1741596665109.429,
-      "uuid": "601c8a91-b84b-4045-8916-37cdc4b4fd3e"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation": {
-      "time": 1741596665107.278,
-      "uuid": "75ee948e-47bf-42f8-a2ea-55ad58c8dbfc"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas": {
-      "time": 1741596665099.8809,
-      "uuid": "c14ac7b2-1c82-4c75-a747-3762e49cfd5d"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones": {
-      "time": 1741596665087.8704,
-      "uuid": "5f61a31e-678b-4d93-9e45-599409e7cf72"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported": {
-      "time": 1741596665077.5442,
-      "uuid": "ef81b175-c8f7-4df9-936a-361bd1d7d3b9"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs": {
-      "time": 1741596665046.6824,
-      "uuid": "d0bafb4d-a2b8-45e6-9d73-1414eecf2fe6"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures": {
-      "time": 1741596665039.9355,
-      "uuid": "ae91fecc-fbdf-4dae-a060-3b3079eb7a0b"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo": {
-      "time": 1741596665118.648,
-      "uuid": "a8b81615-d3df-4ab0-a423-a993713216b5"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent": {
-      "time": 1741596665108.7131,
-      "uuid": "7c8d49cf-50ad-4f6d-9e6c-b3a2201f32ab"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/customProperty": {
-      "time": 1741596665106.9004,
-      "uuid": "cd5ab7aa-2ac6-404f-92ea-7d986fdaba7e"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/motionStreak": {
-      "time": 1741596665106.2183,
-      "uuid": "518bd3b1-c11f-4af2-b4b8-519514d5ee44"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move": {
-      "time": 1741596665105.5176,
-      "uuid": "2ae95637-6571-4060-b4d5-f91c0b4170a3"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget": {
-      "time": 1741596665102.0127,
-      "uuid": "e450c70d-f9aa-4514-9247-5481d9d9086f"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b": {
-      "time": 1741596665089.7222,
-      "uuid": "54fec830-9add-41ae-a315-4a29aa96dffa"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b": {
-      "time": 1741596665087.3965,
-      "uuid": "51e4a9cf-5567-4bd7-a450-8743c84e19df"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man": {
-      "time": 1741596665084.2395,
-      "uuid": "8288e37b-16f3-4f10-a2f7-fe1858d60af9"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000": {
-      "time": 1741596665080.3262,
-      "uuid": "5fa5c8ac-0198-40ee-ad59-f78e3cc135db"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle": {
-      "time": 1741596665074.0608,
-      "uuid": "701414e0-36ee-4efb-ad1f-e95a55d44a0b"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight": {
-      "time": 1741596665047.9229,
-      "uuid": "bb999cc8-f0f8-4915-b2a7-25d66ff3d032"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon": {
-      "time": 1741596665034.3345,
-      "uuid": "da3a339b-f03b-42b8-a3b6-2efcaaba7022"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui": {
-      "time": 1741596665032.1316,
-      "uuid": "8db6c48f-f19a-4c39-86bf-7b2fadbed64e"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep": {
-      "time": 1741596665029.0718,
-      "uuid": "13f3d416-99a7-42e6-9f56-e3340270da0a"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced": {
-      "time": 1741596665022.5303,
-      "uuid": "80e23f32-593e-4e0f-8622-f760e2918838"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/tiled": {
-      "time": 1741596665018.1013,
-      "uuid": "747701e6-82c5-43a2-8c65-7cc18dad3e14"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui": {
-      "time": 1741596665011.8994,
-      "uuid": "7c1e1f28-2b46-41e5-9508-3785f296ab86"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map": {
-      "time": 1741596665071.5479,
-      "uuid": "2e6eb363-3079-4ddf-b76d-87d63ff1e294"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1": {
-      "time": 1741596665017.36,
-      "uuid": "3d0e20c4-2b7c-4c2a-ab25-9d612ee93ceb"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2": {
-      "time": 1741596665011.5347,
-      "uuid": "630271f9-20cc-43e0-a031-dcbe0744776e"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/cocosvideo.mp4.meta": {
-      "time": 1741597195166.807
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/sheep_hit.anim.meta": {
-      "time": 1741597195145.853
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/sheep_jump.anim.meta": {
-      "time": 1741597195147.75
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/sheep_run.anim.meta": {
-      "time": 1741597195147.5352
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/tipsAnim.anim.meta": {
-      "time": 1741597195146.528
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.plist.meta": {
-      "time": 1741597195165.5974
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.png.meta": {
-      "time": 1741597195152.3545
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist.meta": {
-      "time": 1741597195193.004
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.png.meta": {
-      "time": 1741597195156.069
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist.meta": {
-      "time": 1741597195185.5645
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.png.meta": {
-      "time": 1741597195159.959
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/barriers.png.meta": {
-      "time": 1741597195162.1926
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/ground.png.meta": {
-      "time": 1741597195165.2742
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/hexa.png.meta": {
-      "time": 1741597195169.123
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/hexa.tmx.meta": {
-      "time": 1741597195177.2908
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/iso-test.png.meta": {
-      "time": 1741597195172.1018
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/iso-test.tmx.meta": {
-      "time": 1741597195179.3826
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/map.tmx.meta": {
-      "time": 1741597195181.3796
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/perspective_walls.png.meta": {
-      "time": 1741597195180.3323
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/perspective_walls.tmx.meta": {
-      "time": 1741597195186.2053
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/perspective_walls.tsx.meta": {
-      "time": 1741597195184.2756
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Background.prefab.meta": {
-      "time": 1741597195187.4617
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Center Menu.prefab.meta": {
-      "time": 1741597195194.4595
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Left Menu.prefab.meta": {
-      "time": 1741597195194.702
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/ListItem.prefab.meta": {
-      "time": 1741597195195.889
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Monster.prefab.meta": {
-      "time": 1741597195198.0042
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Page.prefab.meta": {
-      "time": 1741597195199.7258
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Right Menu.prefab.meta": {
-      "time": 1741597195201.0215
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Search Block.prefab.meta": {
-      "time": 1741597195200.6921
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/SuspensionTips.prefab.meta": {
-      "time": 1741597195202.3206
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/item0.prefab.meta": {
-      "time": 1741597195203.673
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/loadAnimTest.prefab.meta": {
-      "time": 1741597195209.1343
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/loadItem.prefab.meta": {
-      "time": 1741597195208.9517
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/bg.png.meta": {
-      "time": 1741597195206.0596
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/close-icon.png.meta": {
-      "time": 1741597195205.8787
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/cocos_creator.jpg.meta": {
-      "time": 1741597195207.78
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/cocos_creator_white.jpg.meta": {
-      "time": 1741597195208.3027
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/content.png.meta": {
-      "time": 1741597195209.9834
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/content_mipmap.png.meta": {
-      "time": 1741597195210.443
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/default_scrollbar_bg.png.meta": {
-      "time": 1741597195210.8416
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/default_scrollbar_vertical_bg.png.meta": {
-      "time": 1741597195211.5083
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/gold.png.meta": {
-      "time": 1741597195211.3706
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/goldcoin.png.meta": {
-      "time": 1741597195211.631
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/scrollbar.png.meta": {
-      "time": 1741597195212.9895
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/scrollbarVertical.png.meta": {
-      "time": 1741597195213.4204
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/scrollviewbg.png.meta": {
-      "time": 1741597195214.1138
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/singleColor.png.meta": {
-      "time": 1741597195213.966
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/star.png.meta": {
-      "time": 1741597195221.0364
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/star_slot.png.meta": {
-      "time": 1741597195226.3716
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/tab-bg.png.meta": {
-      "time": 1741597195226.627
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx.meta": {
-      "time": 1741597197938.4597
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx.meta": {
-      "time": 1741597197072.706
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx.meta": {
-      "time": 1741597197320.7056
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_1.anim.meta": {
-      "time": 1741597195239.4038
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_2.anim.meta": {
-      "time": 1741597195237.836
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_3.anim.meta": {
-      "time": 1741597195241.2285
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_4.anim.meta": {
-      "time": 1741597195242.0718
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/customProperty/customAnim.anim.meta": {
-      "time": 1741597195243.6494
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/motionStreak/move_around.anim.meta": {
-      "time": 1741597195244.2563
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/back-forward.anim.meta": {
-      "time": 1741597195245.7961
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/caseIn-expo.anim.meta": {
-      "time": 1741597195246.4531
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/caseInOut-expo.anim.meta": {
-      "time": 1741597195250.0908
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/caseOut-expo.anim.meta": {
-      "time": 1741597195251.9739
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/linear.anim.meta": {
-      "time": 1741597195252.5933
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget/alignOnce_scale.anim.meta": {
-      "time": 1741597195254.838
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget/rightWidget.anim.meta": {
-      "time": 1741597195255.021
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget/topWidget.anim.meta": {
-      "time": 1741597195259.2156
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b/mecha_1502b_ske.json.meta": {
-      "time": 1741597195261.4797
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b/mecha_1502b_tex.json.meta": {
-      "time": 1741597195264.8936
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b/mecha_1502b_tex.png.meta": {
-      "time": 1741597195262.3423
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b/skin_1502b_ske.json.meta": {
-      "time": 1741597195263.7214
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b/skin_1502b_tex.json.meta": {
-      "time": 1741597195276.484
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b/skin_1502b_tex.png.meta": {
-      "time": 1741597195274.3633
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man/SwordsMan_ske.dbbin.meta": {
-      "time": 1741597195278.7075
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man/SwordsMan_tex.json.meta": {
-      "time": 1741597195279.6853
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man/SwordsMan_tex.png.meta": {
-      "time": 1741597195278.0686
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000/weapon_1000_ske.json.meta": {
-      "time": 1741597195281.4897
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000/weapon_1000_tex.json.meta": {
-      "time": 1741597195283.5706
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000/weapon_1000_tex.png.meta": {
-      "time": 1741597195282.3706
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle/atom.plist.meta": {
-      "time": 1741597195293.711
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle/smoke.plist.meta": {
-      "time": 1741597195300.3853
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle/smoke.png.meta": {
-      "time": 1741597195300.5789
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/BuleMonster.png.meta": {
-      "time": 1741597195302.2021
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/GreenMonster.png.meta": {
-      "time": 1741597195302.3665
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/PurpleMonster.png.meta": {
-      "time": 1741597195306.9546
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/RedMonster.png.meta": {
-      "time": 1741597195307.1663
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/YellowMonster.png.meta": {
-      "time": 1741597195309.8652
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/btn_disabled.png.meta": {
-      "time": 1741597195308.9087
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/btn_normal.png.meta": {
-      "time": 1741597195314.0764
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/btn_pressed.png.meta": {
-      "time": 1741597195315.0703
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/editbox_bg.png.meta": {
-      "time": 1741597195316.008
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/AutoAtlas.pac.meta": {
-      "time": 1741597195316.521
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_down_0.png.meta": {
-      "time": 1741597195317.39
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_down_1.png.meta": {
-      "time": 1741597195318.183
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_down_2.png.meta": {
-      "time": 1741597195318.6604
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_0.png.meta": {
-      "time": 1741597195319.8213
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_1.png.meta": {
-      "time": 1741597195320.9534
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_2.png.meta": {
-      "time": 1741597195323.0388
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_3.png.meta": {
-      "time": 1741597195323.8464
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_4.png.meta": {
-      "time": 1741597195325.367
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_0.png.meta": {
-      "time": 1741597195326.267
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_1.png.meta": {
-      "time": 1741597195327.0347
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_2.png.meta": {
-      "time": 1741597195327.7546
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_3.png.meta": {
-      "time": 1741597195328.4255
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_touch_0.png.meta": {
-      "time": 1741597195329.2651
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_empty.png.meta": {
-      "time": 1741597195329.95
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_green.png.meta": {
-      "time": 1741597195331.0315
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_green_p2.png.meta": {
-      "time": 1741597195331.7595
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_green_un2.png.meta": {
-      "time": 1741597195332.8801
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/panel_bg.png.meta": {
-      "time": 1741597195333.6223
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/panel_black.png.meta": {
-      "time": 1741597195334.4956
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/panel_highlight.png.meta": {
-      "time": 1741597195335.2864
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/ui_panel.png.meta": {
-      "time": 1741597195336.9192
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/tiled/barBg.png.meta": {
-      "time": 1741597195338.1104
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/videplayIcon.jpg.meta": {
-      "time": 1741597195337.9106
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/alter.png.meta": {
-      "time": 1741597195342.5686
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundArch.png.meta": {
-      "time": 1741597195343.8032
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundMountain.png.meta": {
-      "time": 1741597195344.6252
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundTower.png.meta": {
-      "time": 1741597195345.2966
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundTree.png.meta": {
-      "time": 1741597195346.7715
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/blobBlue.png.meta": {
-      "time": 1741597195346.1199
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/blobGreen.png.meta": {
-      "time": 1741597195348.0842
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/blue.png.meta": {
-      "time": 1741597195348.256
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/bombStroked.png.meta": {
-      "time": 1741597195350.084
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/castleWall.png.meta": {
-      "time": 1741597195349.5566
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/cloud.png.meta": {
-      "time": 1741597195350.9707
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/column1.png.meta": {
-      "time": 1741597195351.808
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/column2.png.meta": {
-      "time": 1741597195352.591
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorBlueStroked.png.meta": {
-      "time": 1741597195354.085
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorGreenStroke.png.meta": {
-      "time": 1741597195355.5444
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorRedStroked.png.meta": {
-      "time": 1741597195356.822
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorStroked.png.meta": {
-      "time": 1741597195358.324
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/earthWall.png.meta": {
-      "time": 1741597195359.4182
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/earthWall2.png.meta": {
-      "time": 1741597195360.4663
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/exit.png.meta": {
-      "time": 1741597195361.4631
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/flare.png.meta": {
-      "time": 1741597195362.572
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/gemBlueStroked.png.meta": {
-      "time": 1741597195363.803
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/gemRedStroked.png.meta": {
-      "time": 1741597195364.5244
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/grassLarge.png.meta": {
-      "time": 1741597195366.0793
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/grassSmall.png.meta": {
-      "time": 1741597195368.1936
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/grey.png.meta": {
-      "time": 1741597195368.779
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/hero.png.meta": {
-      "time": 1741597195369.7786
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/keyGreenStroked.png.meta": {
-      "time": 1741597195370.6423
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/keyRedStroked.png.meta": {
-      "time": 1741597195371.6743
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/keyYellowStroked.png.meta": {
-      "time": 1741597195373.9248
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform1.png.meta": {
-      "time": 1741597195375.4307
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform2.png.meta": {
-      "time": 1741597195376.3076
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform3.png.meta": {
-      "time": 1741597195377.0786
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform4.png.meta": {
-      "time": 1741597195378.1143
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase1.png.meta": {
-      "time": 1741597195378.9695
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase2.png.meta": {
-      "time": 1741597195379.6914
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase3.png.meta": {
-      "time": 1741597195380.6775
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase4.png.meta": {
-      "time": 1741597195381.517
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock1.png.meta": {
-      "time": 1741597195382.2407
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock2.png.meta": {
-      "time": 1741597195382.822
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock3.png.meta": {
-      "time": 1741597195383.6814
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock4.png.meta": {
-      "time": 1741597195384.6785
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector1.png.meta": {
-      "time": 1741597195385.791
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector2.png.meta": {
-      "time": 1741597195389.9995
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector3.png.meta": {
-      "time": 1741597195391.2324
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector4.png.meta": {
-      "time": 1741597195392.2551
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/pushBlock1.png.meta": {
-      "time": 1741597195393.1294
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/pushBlock2.png.meta": {
-      "time": 1741597195394.0642
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/pushBlock3.png.meta": {
-      "time": 1741597195394.752
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sandbox.tmx.meta": {
-      "time": 1741597195449.8438
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sandbox2.tmx.meta": {
-      "time": 1741597195451.4575
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/shadow.png.meta": {
-      "time": 1741597195452.5425
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/shieldStroked.png.meta": {
-      "time": 1741597195453.6094
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sign.png.meta": {
-      "time": 1741597195454.4636
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/skeleton.png.meta": {
-      "time": 1741597195455.4475
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/swordStroked.png.meta": {
-      "time": 1741597195456.3254
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/torch.png.meta": {
-      "time": 1741597195457.117
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/trap.png.meta": {
-      "time": 1741597195458.133
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/wallDecor1.png.meta": {
-      "time": 1741597195458.8057
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/wallDecor2.png.meta": {
-      "time": 1741597195459.778
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/wallDecor3.png.meta": {
-      "time": 1741597195460.5916
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/window1.png.meta": {
-      "time": 1741597195461.3706
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/window2.png.meta": {
-      "time": 1741597195462.1694
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/window3.png.meta": {
-      "time": 1741597195462.8555
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/add.png.meta": {
-      "time": 1741597195463.789
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/attention.png.meta": {
-      "time": 1741597195463.9333
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/attention_padded.png.meta": {
-      "time": 1741597195466.6016
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnDisabled.png.meta": {
-      "time": 1741597195465.3882
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnHover.png.meta": {
-      "time": 1741597195467.888
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnNormal.png.meta": {
-      "time": 1741597195468.777
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnPressed.png.meta": {
-      "time": 1741597195469.4111
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btn_options.png.meta": {
-      "time": 1741597195470.3865
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btn_play.png.meta": {
-      "time": 1741597195471.152
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/cancel.png.meta": {
-      "time": 1741597195471.8608
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/panelBG.png.meta": {
-      "time": 1741597195472.6733
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/question.png.meta": {
-      "time": 1741597195473.452
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/restart.png.meta": {
-      "time": 1741597195474.3687
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/setup.png.meta": {
-      "time": 1741597195475.14
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/bg.png.meta": {
-      "time": 1741597195475.9438
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/btn_normal.png.meta": {
-      "time": 1741597195476.8076
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/btn_pressed.png.meta": {
-      "time": 1741597195477.7065
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/scrollview_bar.png.meta": {
-      "time": 1741597195478.5984
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/scrollview_bg.png.meta": {
-      "time": 1741597195478.9934
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/sheep_hit.anim": {
-      "time": 1741596665103.4917,
-      "uuid": "050adbf6-bd66-4a26-ac79-d68c00ad7812"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/tipsAnim.anim": {
-      "time": 1741596665102.4324,
-      "uuid": "171a4ae8-770d-4963-ba5c-88d3d93b1a65"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/sheep_run.anim": {
-      "time": 1741596665102.792,
-      "uuid": "dce845ca-66a7-44dd-b18c-bd49876e1a9a"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/sheep_jump.anim": {
-      "time": 1741596665103.1467,
-      "uuid": "16bb2ab3-4126-4d8f-b2aa-80a216048bfa"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.png": {
-      "time": 1741596665099.4785,
-      "uuid": "224ce6e8-0e32-430a-9807-9452fc769ac9"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.png": {
-      "time": 1741596665098.4922,
-      "uuid": "83e05166-d611-452a-ac2f-4cbf5c3d5a06"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.png": {
-      "time": 1741596665095.7485,
-      "uuid": "9c5ee18c-5b09-4726-b23b-e46e49a1b008"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/barriers.png": {
-      "time": 1741596665077.6006,
-      "uuid": "7d44317c-27c2-4cf6-a1b8-b2258eb74322"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/ground.png": {
-      "time": 1741596665076.9849,
-      "uuid": "64912915-8f49-4b57-abed-8c6ea1d41ae0"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.plist": {
-      "time": 1741596665100.098,
-      "uuid": "1eda363f-6200-4822-b297-4bf308291d9d"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/cocosvideo.mp4": {
-      "time": 1741596665094.199,
-      "uuid": "7b92981b-aaea-4c77-b86d-0142991ac334"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/hexa.png": {
-      "time": 1741596665076.298,
-      "uuid": "5b8b3298-c604-480a-a3f6-c7522f98b0ff"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/iso-test.png": {
-      "time": 1741596665075.3792,
-      "uuid": "0cf752c8-2374-4e99-b7dd-20069221ff8b"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/hexa.tmx": {
-      "time": 1741596665075.7222,
-      "uuid": "56ef755b-269a-41e3-8117-0a4d88e366c4"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/iso-test.tmx": {
-      "time": 1741596665075.0305,
-      "uuid": "6a754d42-47d2-40c1-9a71-9d398894c8e4"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/perspective_walls.png": {
-      "time": 1741596665072.657,
-      "uuid": "05ec98d6-fdaa-45a0-bbda-62e094226b81"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/map.tmx": {
-      "time": 1741596665074.676,
-      "uuid": "1a4c9585-9c4e-4d61-aa28-166b52945322"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/perspective_walls.tsx": {
-      "time": 1741596665071.9844,
-      "uuid": "fcc394c8-c04a-4ff9-8037-8bd0c119be5f"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist": {
-      "time": 1741596665096.6682,
-      "uuid": "55ddbcf7-08e2-4fe0-a2b2-b9ab73af649d"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/perspective_walls.tmx": {
-      "time": 1741596665072.317,
-      "uuid": "d0050fe1-0497-4c9c-9e37-ca87343eb6d2"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Background.prefab": {
-      "time": 1741597195183.4495,
-      "uuid": "b8392351-be97-4f01-985e-3e7d2118f3c9"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist": {
-      "time": 1741596665098.9492,
-      "uuid": "efc1bbab-8753-4506-859f-0558eb86db31"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Center Menu.prefab": {
-      "time": 1741597195187.2725,
-      "uuid": "9819eaa9-8394-43c2-b22c-8ee47df3962a"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Left Menu.prefab": {
-      "time": 1741597195189.936,
-      "uuid": "6c8b509b-c51f-4770-9bb0-9c444abf9c83"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/ListItem.prefab": {
-      "time": 1741597195191.0496,
-      "uuid": "1ea21a34-ca68-4880-8df6-05abb19079fd"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Monster.prefab": {
-      "time": 1741597195192.329,
-      "uuid": "460588c6-f354-4f3d-9e80-eae387ded2fe"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Page.prefab": {
-      "time": 1741597195197.332,
-      "uuid": "9545dbe5-183b-420a-8610-07b70c938504"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Search Block.prefab": {
-      "time": 1741597195198.9253,
-      "uuid": "3348a65a-a112-4005-88ce-37534ef0f813"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Right Menu.prefab": {
-      "time": 1741597195198.7024,
-      "uuid": "c8233c95-d7d8-432a-a470-7dfd3ec6d9c0"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/SuspensionTips.prefab": {
-      "time": 1741597195199.0515,
-      "uuid": "1c2a9087-adac-458b-9cd0-e3a2c745e3b8"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/item0.prefab": {
-      "time": 1741597195199.373,
-      "uuid": "a8accd2e-6622-4c31-8a1e-4db5f2b568b5"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/close-icon.png": {
-      "time": 1741596665039.625,
-      "uuid": "60d1c4d4-5eb7-4b9e-8e6e-4f1fa16effbb"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/bg.png": {
-      "time": 1741596665040.2344,
-      "uuid": "e4e220ed-9718-4587-9b54-82ac98f477d4"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/cocos_creator.jpg": {
-      "time": 1741596665039.1921,
-      "uuid": "86678c0e-f8e7-409c-9ddf-e0a9bf555269"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/cocos_creator_white.jpg": {
-      "time": 1741596665038.6592,
-      "uuid": "7b31062d-9e8e-4805-b77a-739a8295d9d0"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/loadItem.prefab": {
-      "time": 1741597195205.5835,
-      "uuid": "6dc05d62-dd10-4a6b-a05c-ed926b4f3142"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/loadAnimTest.prefab": {
-      "time": 1741597195204.799,
-      "uuid": "f6b3551c-1db7-4f25-80a9-dffee8002b39"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/content.png": {
-      "time": 1741596665038.1296,
-      "uuid": "6b4faed5-abc3-4a77-af9d-35ed67a5a48b"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/content_mipmap.png": {
-      "time": 1741596665036.9897,
-      "uuid": "d085509a-4690-4bef-94c7-36ee8e861e0f"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/default_scrollbar_bg.png": {
-      "time": 1741596665036.0798,
-      "uuid": "206c3040-b374-40dc-a9ca-8800e556fba6"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/gold.png": {
-      "time": 1741596665035.3574,
-      "uuid": "99ce2773-c288-4d67-9868-27bb8d5e9ea9"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/default_scrollbar_vertical_bg.png": {
-      "time": 1741596665035.723,
-      "uuid": "10f4622b-d456-4ba5-a166-e99804d9c397"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/goldcoin.png": {
-      "time": 1741596665034.8767,
-      "uuid": "6ee311af-2e56-480a-98dd-ee63e3d5b24c"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/scrollbar.png": {
-      "time": 1741596665030.4458,
-      "uuid": "4177692d-029f-445b-979b-f64421e6eafe"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/scrollbarVertical.png": {
-      "time": 1741596665030.0315,
-      "uuid": "1c211f8f-6068-423b-8de2-9c4735427d7d"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/singleColor.png": {
-      "time": 1741596665022.9604,
-      "uuid": "1b6a0b3c-2a0e-410a-95ab-53dc9a03a360"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/scrollviewbg.png": {
-      "time": 1741596665029.585,
-      "uuid": "da3df600-014d-40e1-8d48-c3800523e5e3"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/star.png": {
-      "time": 1741596665019.2825,
-      "uuid": "b11c4d7c-b15b-4eb6-883b-1697c1388e21"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/star_slot.png": {
-      "time": 1741596665018.921,
-      "uuid": "3a46cb4c-2b90-46b1-8079-3465930c1de5"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/tab-bg.png": {
-      "time": 1741596665018.5227,
-      "uuid": "513b8e0b-2ccd-4001-bfac-d3637a7cbdac"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_2.anim": {
-      "time": 1741596665108.4158,
-      "uuid": "142dce2a-9f39-49e2-91c4-b62c5781d1a7"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_1.anim": {
-      "time": 1741596665108.7747,
-      "uuid": "ee942c08-c2a8-421e-bfbe-498229084afe"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_3.anim": {
-      "time": 1741596665108.0598,
-      "uuid": "8456f3b4-0998-49ea-aeae-d5e8985ad816"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_4.anim": {
-      "time": 1741596665107.69,
-      "uuid": "c6322309-085e-49d1-a5e3-40d71598fd1f"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/customProperty/customAnim.anim": {
-      "time": 1741596665106.9668,
-      "uuid": "9b0754b9-bbfc-4259-8e63-91f3436f8679"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/motionStreak/move_around.anim": {
-      "time": 1741596665106.2732,
-      "uuid": "1228ce55-ab81-40eb-8b0b-43fbcfe38d58"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/back-forward.anim": {
-      "time": 1741596665105.583,
-      "uuid": "3cfdb519-2f4e-4b8f-a3b6-bc3d55d6ffae"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/caseIn-expo.anim": {
-      "time": 1741596665105.2227,
-      "uuid": "5d29daeb-8963-4e11-8a16-9a1194ee58ca"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/caseInOut-expo.anim": {
-      "time": 1741596665104.8887,
-      "uuid": "4bffeeee-f2c6-4bec-ba74-cd671d12709b"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/caseOut-expo.anim": {
-      "time": 1741596665104.5137,
-      "uuid": "49c166a6-94ae-4b97-ab22-b1b46e001d73"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/linear.anim": {
-      "time": 1741596665104.1587,
-      "uuid": "4bb25e27-63ac-4ec7-aec9-d89d1cc5b619"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget/alignOnce_scale.anim": {
-      "time": 1741596665102.0745,
-      "uuid": "c0dcd181-8289-4a0a-a9e3-31bd10f2ff3f"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget/rightWidget.anim": {
-      "time": 1741596665101.7166,
-      "uuid": "33b23c50-d7b5-4df6-a861-d2e76565fdca"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget/topWidget.anim": {
-      "time": 1741596665101.3506,
-      "uuid": "5d0f5d8c-368f-4b56-820f-d846602301a8"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b/mecha_1502b_ske.json": {
-      "time": 1741596665090.442,
-      "uuid": "33924d89-24ce-47dd-937a-58de4bfa46e6"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b/mecha_1502b_tex.png": {
-      "time": 1741596665089.05,
-      "uuid": "bc83c66d-ed49-49ef-8f9a-6117e60dc489"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b/skin_1502b_ske.json": {
-      "time": 1741596665087.5479,
-      "uuid": "3bb9be4b-9553-492e-bf8c-4e662f115fd0"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b/mecha_1502b_tex.json": {
-      "time": 1741596665089.4368,
-      "uuid": "cf1dcd14-ed5d-4297-aa09-7e98b52308a9"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b/skin_1502b_tex.png": {
-      "time": 1741596665086.7412,
-      "uuid": "7fb26f28-3aae-4403-a40f-e6803496c7ae"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b/skin_1502b_tex.json": {
-      "time": 1741596665087.107,
-      "uuid": "a98d964a-ea21-4949-80e0-4c20f86b3d7e"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man/SwordsMan_tex.png": {
-      "time": 1741596665083.0498,
-      "uuid": "409c80c2-e957-4f23-9af5-ddb362345ce4"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man/SwordsMan_ske.dbbin": {
-      "time": 1741596665085.4072,
-      "uuid": "63626a22-bdb3-4914-8032-4945b3486a5f"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man/SwordsMan_tex.json": {
-      "time": 1741596665083.9248,
-      "uuid": "6684b89f-54ee-4c2f-8ca0-4481f35f9d37"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000/weapon_1000_ske.json": {
-      "time": 1741596665080.4692,
-      "uuid": "c78dc981-2031-4698-b43d-93f12a9e9bf3"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000/weapon_1000_tex.png": {
-      "time": 1741596665079.3884,
-      "uuid": "7637ab36-dfa5-438f-852d-c47577d75f75"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000/weapon_1000_tex.json": {
-      "time": 1741596665079.8909,
-      "uuid": "78e6321b-7039-4762-9fdc-f82cd2a8d498"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle/atom.plist": {
-      "time": 1741596665074.181,
-      "uuid": "e24fa342-815a-4478-b9db-ed592e7c0293"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle/smoke.plist": {
-      "time": 1741596665073.7703,
-      "uuid": "bbf8cf2e-79ac-4dba-b059-768cbb44e3d1"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle/smoke.png": {
-      "time": 1741596665073.3408,
-      "uuid": "6f932e68-4c0f-4291-9759-852e509d2e83"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/BuleMonster.png": {
-      "time": 1741596665034.3943,
-      "uuid": "c09681b1-0c3e-4794-b687-1756e646d970"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/GreenMonster.png": {
-      "time": 1741596665034.0134,
-      "uuid": "08c1edea-46d4-41de-99dd-4f8b7f6b43b3"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/PurpleMonster.png": {
-      "time": 1741596665033.6316,
-      "uuid": "18041d7f-7c6a-47bd-ab6f-7a18b404a214"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/RedMonster.png": {
-      "time": 1741596665033.2666,
-      "uuid": "8a6c5830-4127-4ddb-a3e6-028b3f793e83"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/btn_disabled.png": {
-      "time": 1741596665032.1934,
-      "uuid": "8a60351e-d9cc-46f4-b1d6-6cde36a5b9ad"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/YellowMonster.png": {
-      "time": 1741596665032.9058,
-      "uuid": "15ade27e-0212-4775-b5e4-8a8a258e8b63"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/btn_normal.png": {
-      "time": 1741596665031.8281,
-      "uuid": "eb06a97a-5161-4d70-bac7-8a8f885f8399"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/btn_pressed.png": {
-      "time": 1741596665031.4763,
-      "uuid": "4e02ec2c-860e-43cc-9910-8ff2aa151884"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/editbox_bg.png": {
-      "time": 1741596665031.1338,
-      "uuid": "0439ddbc-5893-4fd0-a233-d0f5e51ba5cd"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/AutoAtlas.pac": {
-      "time": 1741596665029.1345,
-      "uuid": "0ee46d3e-e838-41ae-9725-11eb2b683ba6"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_down_0.png": {
-      "time": 1741596665028.751,
-      "uuid": "0e4e6493-4250-4ed9-9a37-d0a9f0663113"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_down_1.png": {
-      "time": 1741596665028.3389,
-      "uuid": "8557c6d3-9eef-4b28-ac59-5d7337da100b"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_down_2.png": {
-      "time": 1741596665027.9363,
-      "uuid": "dca29d40-5407-41b4-939d-34e72d3b00c2"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_0.png": {
-      "time": 1741596665027.524,
-      "uuid": "34ee9b9b-b514-4973-9cd4-cd15aafffe8b"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_1.png": {
-      "time": 1741596665027.1184,
-      "uuid": "a8f423a1-2069-4df5-a3a8-ea3ca8e11a6c"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_2.png": {
-      "time": 1741596665026.6982,
-      "uuid": "c06cee9f-0b1a-41ea-9c1b-6dfeed3b3661"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_3.png": {
-      "time": 1741596665026.2637,
-      "uuid": "ecf333cf-99ed-4814-990d-3109890fbd5e"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_4.png": {
-      "time": 1741596665025.8542,
-      "uuid": "b976bd65-a4ca-467f-bca0-11f0ebea51f0"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_0.png": {
-      "time": 1741596665025.4255,
-      "uuid": "c6e4d9aa-bab9-4b01-974e-1ba6747af9c1"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_1.png": {
-      "time": 1741596665025.016,
-      "uuid": "c5a5b09c-e012-4da8-a31b-d1f541f64bf4"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_2.png": {
-      "time": 1741596665024.6245,
-      "uuid": "1ba0dabd-fc65-4172-adee-e9167c6eb9ad"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_3.png": {
-      "time": 1741596665024.229,
-      "uuid": "7f97cb41-6ad1-45f7-afd9-3f9428490731"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_touch_0.png": {
-      "time": 1741596665023.814,
-      "uuid": "58fccb23-5c29-47f0-9545-7a82f23ca5ae"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_empty.png": {
-      "time": 1741596665022.5898,
-      "uuid": "dadab157-3ee8-4617-a29c-54d5b4fb7aa8"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_green.png": {
-      "time": 1741596665022.2275,
-      "uuid": "c82179a5-676d-423c-8de2-22874b5f4a6d"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_green_p2.png": {
-      "time": 1741596665021.8567,
-      "uuid": "87589cb6-1ba7-4961-83ec-bb8e7edb1991"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_green_un2.png": {
-      "time": 1741596665021.4998,
-      "uuid": "ca4be22c-42c0-4632-9225-cd95960fdd79"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/panel_bg.png": {
-      "time": 1741596665021.132,
-      "uuid": "6fd1ec90-efab-41ec-ab6b-4cd6a085951d"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/panel_black.png": {
-      "time": 1741596665020.7683,
-      "uuid": "993f03a1-0964-4c0e-913b-344be7363e8c"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/panel_highlight.png": {
-      "time": 1741596665020.4062,
-      "uuid": "5b540dd3-1633-495a-9c83-4e62cdd75faa"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/ui_panel.png": {
-      "time": 1741596665019.9973,
-      "uuid": "e2f89568-b554-41b7-a21a-b3a03b3c5431"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/videplayIcon.jpg": {
-      "time": 1741596665009.255,
-      "uuid": "f6e0bec5-d58c-4287-885c-74feecfba31e"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/tiled/barBg.png": {
-      "time": 1741596665018.1584,
-      "uuid": "e51ceb1c-f6c3-43f4-813b-a8d78bb48259"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/alter.png": {
-      "time": 1741596665071.6018,
-      "uuid": "571c9922-f406-4da0-a534-2b2fe7aa9e3c"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundArch.png": {
-      "time": 1741596665071.2563,
-      "uuid": "a59dbc5e-6415-4483-8869-6b34ac2399a0"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundMountain.png": {
-      "time": 1741596665070.9094,
-      "uuid": "2673e1d0-1f62-4e41-a9a1-efb6c5739c2f"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundTower.png": {
-      "time": 1741596665070.5603,
-      "uuid": "3cde584f-f6dc-4a5a-9a50-0d6967e07809"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/blobBlue.png": {
-      "time": 1741596665069.8506,
-      "uuid": "38bd2815-3c6f-4e18-8e59-0f67c2c9e3e6"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundTree.png": {
-      "time": 1741596665070.2034,
-      "uuid": "5a62159c-a097-4070-856b-44ad742fcd2f"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/blobGreen.png": {
-      "time": 1741596665069.4949,
-      "uuid": "c457a61b-aaaa-4032-a93e-99c5e5af56c6"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/blue.png": {
-      "time": 1741596665069.1577,
-      "uuid": "712f2862-d5d6-4515-97a5-93dd77a27b0c"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/castleWall.png": {
-      "time": 1741596665068.3784,
-      "uuid": "03c08923-ea92-4244-8ea9-5e68413de64a"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/bombStroked.png": {
-      "time": 1741596665068.803,
-      "uuid": "3b2c4478-ed0f-4158-9c5b-f6e5a6a42dae"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/cloud.png": {
-      "time": 1741596665067.8967,
-      "uuid": "43d6aecc-a869-4b19-9d5a-b8193d165956"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/column1.png": {
-      "time": 1741596665067.5483,
-      "uuid": "1ffa5836-3549-4067-9342-361ce34fcd0b"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/column2.png": {
-      "time": 1741596665067.2065,
-      "uuid": "2176d9c9-ee89-4d38-83ff-7804866d1611"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorBlueStroked.png": {
-      "time": 1741596665066.8745,
-      "uuid": "b7f9aa1c-bca6-4f5b-b6ce-f1a553f248b0"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorGreenStroke.png": {
-      "time": 1741596665066.5251,
-      "uuid": "9e4da3f1-0428-4b2d-b0a4-271d54b781e9"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorRedStroked.png": {
-      "time": 1741596665066.1428,
-      "uuid": "aa74ff5a-fb7f-419f-9f31-32054309242f"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorStroked.png": {
-      "time": 1741596665065.7961,
-      "uuid": "4273e58d-60a0-4b8c-b0cc-8f6995524df3"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/earthWall.png": {
-      "time": 1741596665065.4421,
-      "uuid": "12962aaa-1fad-47cd-a2f0-76a3be7fa124"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/earthWall2.png": {
-      "time": 1741596665064.9998,
-      "uuid": "6236372d-1203-4399-aa37-a2ce41265bba"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/exit.png": {
-      "time": 1741596665064.6533,
-      "uuid": "ebec7c27-249f-431b-89eb-9d469a5382dd"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/flare.png": {
-      "time": 1741596665064.318,
-      "uuid": "2e3337f7-eca4-494e-8378-fcdf590b49e7"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/gemBlueStroked.png": {
-      "time": 1741596665063.9563,
-      "uuid": "79beb253-5271-4946-9f33-41c2337cf76d"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/gemRedStroked.png": {
-      "time": 1741596665063.599,
-      "uuid": "699c80cf-50d6-4c1e-8a16-25e446a34994"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/grassLarge.png": {
-      "time": 1741596665063.2388,
-      "uuid": "793f66e7-3faa-4521-9d7b-7a3fe742eaad"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/grassSmall.png": {
-      "time": 1741596665062.8772,
-      "uuid": "b84fa1ae-7da7-412a-bc34-751899920d13"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/grey.png": {
-      "time": 1741596665062.5076,
-      "uuid": "241b0753-a0a1-4ffc-a65f-c11eaefe3934"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/hero.png": {
-      "time": 1741596665062.1326,
-      "uuid": "c2df56c0-4ed3-46da-8508-0a980cd3a561"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/keyGreenStroked.png": {
-      "time": 1741596665061.7686,
-      "uuid": "3e241534-0276-425f-a912-9bfd9594fe53"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/keyRedStroked.png": {
-      "time": 1741596665061.4282,
-      "uuid": "8483db6b-b31d-40bb-8516-6fd2f980e88e"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/keyYellowStroked.png": {
-      "time": 1741596665061.0872,
-      "uuid": "c53963d3-b1f0-42ab-ad3f-f5a5072e2808"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform1.png": {
-      "time": 1741596665060.7322,
-      "uuid": "66c4f3bf-1f8f-460d-8030-e4a409212099"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform2.png": {
-      "time": 1741596665060.3916,
-      "uuid": "da98947a-fe8e-4585-8b19-b10b8ba9a294"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform3.png": {
-      "time": 1741596665060.0498,
-      "uuid": "2a813872-4c6d-4ae6-b3c2-d5c4040149df"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform4.png": {
-      "time": 1741596665059.6953,
-      "uuid": "0c24da73-28a5-4872-a14c-4b75fc44295d"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase1.png": {
-      "time": 1741596665059.3481,
-      "uuid": "fa95c2d3-727e-4836-a554-6ceca89b1569"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase2.png": {
-      "time": 1741596665058.9956,
-      "uuid": "d5b72eb8-2e6f-4bef-9b9a-473483d124be"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase3.png": {
-      "time": 1741596665058.6362,
-      "uuid": "687ac02f-fa70-436c-860d-34d2d459d238"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase4.png": {
-      "time": 1741596665058.3052,
-      "uuid": "52e5788e-a077-44de-865b-e765ecda1a8f"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock1.png": {
-      "time": 1741596665057.9631,
-      "uuid": "bc4750f9-8862-4481-9103-43158123aaad"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock2.png": {
-      "time": 1741596665057.619,
-      "uuid": "2735ba13-5983-4f4d-b667-f1a88cd9d262"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock3.png": {
-      "time": 1741596665057.2817,
-      "uuid": "06485a3c-ef0b-47ed-a5a9-43ce644a639d"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock4.png": {
-      "time": 1741596665056.9387,
-      "uuid": "23f2022c-580d-47ad-a146-68f0ecc90505"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector1.png": {
-      "time": 1741596665056.5964,
-      "uuid": "9537ad12-c326-4e5b-a541-dabd1faae5bd"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector2.png": {
-      "time": 1741596665056.244,
-      "uuid": "a654e242-dcca-4bd5-b80a-d3a2dbea534f"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector3.png": {
-      "time": 1741596665055.888,
-      "uuid": "e19f6d69-fad6-4f7b-9b13-b2abd1ced2ff"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector4.png": {
-      "time": 1741596665055.5266,
-      "uuid": "8af0061a-e05e-4f49-b9ab-df62dbdfe2f7"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/pushBlock1.png": {
-      "time": 1741596665055.1763,
-      "uuid": "d53e25d2-ff5d-43eb-a1a1-8789b9c37d70"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/pushBlock2.png": {
-      "time": 1741596665054.8367,
-      "uuid": "3fc6d752-ad3b-4f42-9315-80e20e982b21"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/pushBlock3.png": {
-      "time": 1741596665054.5012,
-      "uuid": "b8599e9e-be8d-44c6-a2ae-959c32ff1f33"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sandbox.tmx": {
-      "time": 1741596665054.1396,
-      "uuid": "5b10793f-34e1-4b9c-a27b-ebdaaa164219"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sandbox2.tmx": {
-      "time": 1741596665053.7424,
-      "uuid": "7fff53ca-4944-4e69-8989-569d86a38dcb"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/shadow.png": {
-      "time": 1741596665053.3464,
-      "uuid": "b7454a1b-4384-4f59-895c-f52778ecc334"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/shieldStroked.png": {
-      "time": 1741596665052.9543,
-      "uuid": "fa5ab972-e225-4abb-978a-9539213468f4"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sign.png": {
-      "time": 1741596665052.5674,
-      "uuid": "d999ef05-3213-4e3b-b269-59b7fdc7f121"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/skeleton.png": {
-      "time": 1741596665052.149,
-      "uuid": "4a6666e5-1f77-4389-917d-5dbd5be562dd"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/swordStroked.png": {
-      "time": 1741596665051.713,
-      "uuid": "e1a5271d-1c79-4008-8bf7-71860cec788c"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/torch.png": {
-      "time": 1741596665051.2847,
-      "uuid": "3536bab4-320c-4972-bb37-d95accaed487"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/trap.png": {
-      "time": 1741596665050.838,
-      "uuid": "8b29c0ca-8347-4f23-b879-4b1a99efdbce"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/wallDecor1.png": {
-      "time": 1741596665050.4438,
-      "uuid": "dfcdda2a-0263-467d-b896-2a009cc55092"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/wallDecor2.png": {
-      "time": 1741596665050.07,
-      "uuid": "c2ab4fd9-6f72-416b-bd4e-222ff2556888"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/wallDecor3.png": {
-      "time": 1741596665049.704,
-      "uuid": "38680104-cdc7-4fb2-b7e6-5ad16033f123"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/window1.png": {
-      "time": 1741596665049.248,
-      "uuid": "74652ef9-5b79-4291-bffa-7ae434cc6d1c"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/window2.png": {
-      "time": 1741596665048.8857,
-      "uuid": "6f68b77e-764d-40a7-88dc-4ae63c8f17ea"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/window3.png": {
-      "time": 1741596665048.4844,
-      "uuid": "e92dfaad-b97e-433a-98f3-ec26bda551c6"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/add.png": {
-      "time": 1741596665017.417,
-      "uuid": "1d99a296-6ea0-4346-bd03-1b13c518f3aa"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/attention.png": {
-      "time": 1741596665017.0603,
-      "uuid": "c5faabeb-c5b8-4134-8226-44164d39aa37"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnDisabled.png": {
-      "time": 1741596665016.3235,
-      "uuid": "79b9d085-0ee7-4f1f-9ab9-41c4155625da"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/attention_padded.png": {
-      "time": 1741596665016.7004,
-      "uuid": "2861c917-9b98-4769-b0d8-99f6f7e39d5d"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnHover.png": {
-      "time": 1741596665015.8777,
-      "uuid": "542775e5-f868-48be-b020-05466b3de40e"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnNormal.png": {
-      "time": 1741596665015.4778,
-      "uuid": "35bf1053-d4ee-4720-956c-04169a1b9719"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnPressed.png": {
-      "time": 1741596665014.9985,
-      "uuid": "abdc7af3-8d4e-4992-98b6-09c2a5df60f5"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btn_options.png": {
-      "time": 1741596665014.6296,
-      "uuid": "2ae62c6d-8c27-4800-827a-1986615bcd74"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btn_play.png": {
-      "time": 1741596665014.267,
-      "uuid": "c04ffa62-4ce9-4e03-a89d-3f7602790c0a"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/cancel.png": {
-      "time": 1741596665013.9082,
-      "uuid": "791ab0b9-e42f-43ec-b3f3-9fd72ea55a61"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/panelBG.png": {
-      "time": 1741596665013.551,
-      "uuid": "3229feab-b062-4c75-ad91-b962602def21"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/question.png": {
-      "time": 1741596665013.171,
-      "uuid": "69eedb09-a9f2-4027-8d1d-d694f811cd82"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/restart.png": {
-      "time": 1741596665012.8096,
-      "uuid": "88ef086b-eac8-4c51-988f-daa12ea2123e"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/setup.png": {
-      "time": 1741596665012.4246,
-      "uuid": "96b543c4-0236-4db7-81ad-f4a420be6dcb"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/bg.png": {
-      "time": 1741596665011.5925,
-      "uuid": "5c4847ba-7145-41ca-b78a-26a44dbda85b"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/btn_normal.png": {
-      "time": 1741596665011.2297,
-      "uuid": "7aff329d-5d53-4659-8a29-5403bcc104a0"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/btn_pressed.png": {
-      "time": 1741596665010.8542,
-      "uuid": "e832cb5b-fd18-4945-8b55-7e620519a260"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/scrollview_bar.png": {
-      "time": 1741596665010.4653,
-      "uuid": "53e8405d-866f-4771-921d-1c059e8849ce"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/scrollview_bg.png": {
-      "time": 1741596665010.057,
-      "uuid": "068000cd-e4ad-47b6-8634-ea4c5fe11f4d"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx": {
-      "time": 1741596665117.9946,
-      "uuid": "5c76f955-1f6c-4642-9d3c-fbe71920e957"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx": {
-      "time": 1741596665113.2478,
-      "uuid": "b9f2d2cf-b77c-4cdf-9231-1a8b0fa67694"
-    },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx": {
-      "time": 1741596665124.0183,
-      "uuid": "d3ea15fb-3c29-4d96-8c92-56627ef06f12"
-    },
     "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/mainScene.scene.meta": {
       "time": 1741597224040.1921
     },
@@ -1597,26 +8,68 @@
       "time": 1741597224038.7063,
       "uuid": "5cd5d50c-c7fa-4ba4-8f6b-904a725c11a2"
     },
+    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource.meta": {
+      "time": 1741657291271.1677
+    },
+    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource": {
+      "time": 1741657395713.3042,
+      "uuid": "912e3e41-8a26-4742-914f-88003bff9571"
+    },
+    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine.meta": {
+      "time": 1741657298763.6511
+    },
+    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine": {
+      "time": 1741657303844.6033,
+      "uuid": "ce4758e4-010c-402b-abc1-1d1b81a76e14"
+    },
+    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine/spineboy.txt.meta": {
+      "time": 1741657303845.3162
+    },
+    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine/spineboy.png.meta": {
+      "time": 1741657303881.2651
+    },
+    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine/spineboy.json.meta": {
+      "time": 1741657303888.3574
+    },
+    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine/spineboy.txt": {
+      "time": 1741657303840.4778,
+      "uuid": "870e201f-68a1-4a3f-a499-38cb1534c343"
+    },
+    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine/spineboy.png": {
+      "time": 1741657303840.7302,
+      "uuid": "0e84ea5d-d54c-4c90-bc73-ddd3668f28c0"
+    },
+    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine/spineboy.json": {
+      "time": 1741657303841.4587,
+      "uuid": "065a07a7-52b2-4e79-983c-f4e8a5d61b77"
+    },
+    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/prefabs.meta": {
+      "time": 1741657395714.2463
+    },
+    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/prefabs": {
+      "time": 1741657468985.2913,
+      "uuid": "594c5c4a-5e7a-4ea5-b938-86379200a42e"
+    },
     "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts.meta": {
-      "time": 1741597266237.9258
+      "time": 1741657425770.4722
     },
     "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts": {
-      "time": 1741597294930.6848,
-      "uuid": "2b71273f-d797-47ac-936f-694d0ddbd831"
+      "time": 1741657445069.8096,
+      "uuid": "c0e37672-8f2c-4cee-998e-ebbd0c9e4e95"
     },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts/sheepView.ts.meta": {
-      "time": 1741597294931.9604
+    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts/boyPrefab.ts.meta": {
+      "time": 1741657445071.0225
     },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts/sheepView.ts": {
-      "time": 1741597294929.9666,
-      "uuid": "ab3c91a5-a4b7-4001-84b7-d9dcca4d77eb"
+    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts/boyPrefab.ts": {
+      "time": 1741659564655.6414,
+      "uuid": "2e4f4923-486c-4bd3-8838-10ff704cc710"
     },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabs.meta": {
-      "time": 1741597804494.4688
+    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/prefabs/Boy.prefab.meta": {
+      "time": 1741657468988.1553
     },
-    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabs": {
-      "time": 1741597844472.5833,
-      "uuid": "0a16e382-59ca-4938-9f00-8e183166da01"
+    "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/prefabs/Boy.prefab": {
+      "time": 1741657468986.932,
+      "uuid": "2db8bb61-4212-474c-b025-3fd534f0a322"
     }
   },
   "missing": {
@@ -1624,6 +77,1156 @@
       "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabs/SheepPrefab.prefab",
       "time": 1741597808951.0027,
       "removeTime": 1741597844473
+    },
+    "0a16e382-59ca-4938-9f00-8e183166da01": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabs",
+      "time": 1741597844472.5833,
+      "removeTime": 1741657205592
+    },
+    "41ab25f2-bf0a-4c4b-b238-2603528133d3": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res",
+      "time": 1741599987189.139,
+      "removeTime": 1741657205594
+    },
+    "601c8a91-b84b-4045-8916-37cdc4b4fd3e": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d",
+      "time": 1741596665109.429,
+      "removeTime": 1741657205594
+    },
+    "75ee948e-47bf-42f8-a2ea-55ad58c8dbfc": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation",
+      "time": 1741596665107.278,
+      "removeTime": 1741657205594
+    },
+    "c14ac7b2-1c82-4c75-a747-3762e49cfd5d": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas",
+      "time": 1741596665099.8809,
+      "removeTime": 1741657205594
+    },
+    "5f61a31e-678b-4d93-9e45-599409e7cf72": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones",
+      "time": 1741596665087.8704,
+      "removeTime": 1741657205594
+    },
+    "ef81b175-c8f7-4df9-936a-361bd1d7d3b9": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported",
+      "time": 1741596665077.5442,
+      "removeTime": 1741657205594
+    },
+    "d0bafb4d-a2b8-45e6-9d73-1414eecf2fe6": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs",
+      "time": 1741596665046.6824,
+      "removeTime": 1741657205594
+    },
+    "ae91fecc-fbdf-4dae-a060-3b3079eb7a0b": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures",
+      "time": 1741596665039.9355,
+      "removeTime": 1741657205594
+    },
+    "a8b81615-d3df-4ab0-a423-a993713216b5": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo",
+      "time": 1741596665118.648,
+      "removeTime": 1741657205594
+    },
+    "7c8d49cf-50ad-4f6d-9e6c-b3a2201f32ab": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent",
+      "time": 1741596665108.7131,
+      "removeTime": 1741657205594
+    },
+    "cd5ab7aa-2ac6-404f-92ea-7d986fdaba7e": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/customProperty",
+      "time": 1741596665106.9004,
+      "removeTime": 1741657205594
+    },
+    "518bd3b1-c11f-4af2-b4b8-519514d5ee44": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/motionStreak",
+      "time": 1741596665106.2183,
+      "removeTime": 1741657205594
+    },
+    "2ae95637-6571-4060-b4d5-f91c0b4170a3": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move",
+      "time": 1741596665105.5176,
+      "removeTime": 1741657205594
+    },
+    "e450c70d-f9aa-4514-9247-5481d9d9086f": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget",
+      "time": 1741596665102.0127,
+      "removeTime": 1741657205594
+    },
+    "54fec830-9add-41ae-a315-4a29aa96dffa": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b",
+      "time": 1741596665089.7222,
+      "removeTime": 1741657205594
+    },
+    "51e4a9cf-5567-4bd7-a450-8743c84e19df": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b",
+      "time": 1741596665087.3965,
+      "removeTime": 1741657205594
+    },
+    "8288e37b-16f3-4f10-a2f7-fe1858d60af9": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man",
+      "time": 1741596665084.2395,
+      "removeTime": 1741657205594
+    },
+    "5fa5c8ac-0198-40ee-ad59-f78e3cc135db": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000",
+      "time": 1741596665080.3262,
+      "removeTime": 1741657205594
+    },
+    "701414e0-36ee-4efb-ad1f-e95a55d44a0b": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle",
+      "time": 1741596665074.0608,
+      "removeTime": 1741657205594
+    },
+    "bb999cc8-f0f8-4915-b2a7-25d66ff3d032": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight",
+      "time": 1741596665047.9229,
+      "removeTime": 1741657205594
+    },
+    "da3a339b-f03b-42b8-a3b6-2efcaaba7022": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon",
+      "time": 1741596665034.3345,
+      "removeTime": 1741657205595
+    },
+    "8db6c48f-f19a-4c39-86bf-7b2fadbed64e": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui",
+      "time": 1741596665032.1316,
+      "removeTime": 1741657205595
+    },
+    "13f3d416-99a7-42e6-9f56-e3340270da0a": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep",
+      "time": 1741596665029.0718,
+      "removeTime": 1741657205595
+    },
+    "80e23f32-593e-4e0f-8622-f760e2918838": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced",
+      "time": 1741596665022.5303,
+      "removeTime": 1741657205595
+    },
+    "747701e6-82c5-43a2-8c65-7cc18dad3e14": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/tiled",
+      "time": 1741596665018.1013,
+      "removeTime": 1741657205595
+    },
+    "7c1e1f28-2b46-41e5-9508-3785f296ab86": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui",
+      "time": 1741596665011.8994,
+      "removeTime": 1741657205595
+    },
+    "2e6eb363-3079-4ddf-b76d-87d63ff1e294": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map",
+      "time": 1741596665071.5479,
+      "removeTime": 1741657205595
+    },
+    "3d0e20c4-2b7c-4c2a-ab25-9d612ee93ceb": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1",
+      "time": 1741596665017.36,
+      "removeTime": 1741657205595
+    },
+    "630271f9-20cc-43e0-a031-dcbe0744776e": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2",
+      "time": 1741596665011.5347,
+      "removeTime": 1741657205595
+    },
+    "7b92981b-aaea-4c77-b86d-0142991ac334": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/cocosvideo.mp4",
+      "time": 1741596665094.199,
+      "removeTime": 1741657205595
+    },
+    "050adbf6-bd66-4a26-ac79-d68c00ad7812": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/sheep_hit.anim",
+      "time": 1741596665103.4917,
+      "removeTime": 1741657205595
+    },
+    "16bb2ab3-4126-4d8f-b2aa-80a216048bfa": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/sheep_jump.anim",
+      "time": 1741596665103.1467,
+      "removeTime": 1741657205595
+    },
+    "dce845ca-66a7-44dd-b18c-bd49876e1a9a": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/sheep_run.anim",
+      "time": 1741596665102.792,
+      "removeTime": 1741657205595
+    },
+    "171a4ae8-770d-4963-ba5c-88d3d93b1a65": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/tipsAnim.anim",
+      "time": 1741596665102.4324,
+      "removeTime": 1741657205595
+    },
+    "1eda363f-6200-4822-b297-4bf308291d9d": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.plist",
+      "time": 1741596665100.098,
+      "removeTime": 1741657205595
+    },
+    "224ce6e8-0e32-430a-9807-9452fc769ac9": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.png",
+      "time": 1741596665099.4785,
+      "removeTime": 1741657205595
+    },
+    "efc1bbab-8753-4506-859f-0558eb86db31": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist",
+      "time": 1741596665098.9492,
+      "removeTime": 1741657205595
+    },
+    "83e05166-d611-452a-ac2f-4cbf5c3d5a06": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.png",
+      "time": 1741596665098.4922,
+      "removeTime": 1741657205595
+    },
+    "55ddbcf7-08e2-4fe0-a2b2-b9ab73af649d": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist",
+      "time": 1741596665096.6682,
+      "removeTime": 1741657205595
+    },
+    "9c5ee18c-5b09-4726-b23b-e46e49a1b008": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.png",
+      "time": 1741596665095.7485,
+      "removeTime": 1741657205595
+    },
+    "7d44317c-27c2-4cf6-a1b8-b2258eb74322": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/barriers.png",
+      "time": 1741596665077.6006,
+      "removeTime": 1741657205595
+    },
+    "64912915-8f49-4b57-abed-8c6ea1d41ae0": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/ground.png",
+      "time": 1741596665076.9849,
+      "removeTime": 1741657205595
+    },
+    "5b8b3298-c604-480a-a3f6-c7522f98b0ff": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/hexa.png",
+      "time": 1741596665076.298,
+      "removeTime": 1741657205595
+    },
+    "56ef755b-269a-41e3-8117-0a4d88e366c4": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/hexa.tmx",
+      "time": 1741596665075.7222,
+      "removeTime": 1741657205595
+    },
+    "0cf752c8-2374-4e99-b7dd-20069221ff8b": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/iso-test.png",
+      "time": 1741596665075.3792,
+      "removeTime": 1741657205595
+    },
+    "6a754d42-47d2-40c1-9a71-9d398894c8e4": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/iso-test.tmx",
+      "time": 1741596665075.0305,
+      "removeTime": 1741657205595
+    },
+    "1a4c9585-9c4e-4d61-aa28-166b52945322": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/map.tmx",
+      "time": 1741596665074.676,
+      "removeTime": 1741657205595
+    },
+    "05ec98d6-fdaa-45a0-bbda-62e094226b81": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/perspective_walls.png",
+      "time": 1741596665072.657,
+      "removeTime": 1741657205595
+    },
+    "d0050fe1-0497-4c9c-9e37-ca87343eb6d2": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/perspective_walls.tmx",
+      "time": 1741596665072.317,
+      "removeTime": 1741657205595
+    },
+    "fcc394c8-c04a-4ff9-8037-8bd0c119be5f": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/perspective_walls.tsx",
+      "time": 1741596665071.9844,
+      "removeTime": 1741657205595
+    },
+    "b8392351-be97-4f01-985e-3e7d2118f3c9": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Background.prefab",
+      "time": 1741597195183.4495,
+      "removeTime": 1741657205595
+    },
+    "9819eaa9-8394-43c2-b22c-8ee47df3962a": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Center Menu.prefab",
+      "time": 1741597195187.2725,
+      "removeTime": 1741657205596
+    },
+    "6c8b509b-c51f-4770-9bb0-9c444abf9c83": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Left Menu.prefab",
+      "time": 1741597195189.936,
+      "removeTime": 1741657205596
+    },
+    "1ea21a34-ca68-4880-8df6-05abb19079fd": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/ListItem.prefab",
+      "time": 1741597195191.0496,
+      "removeTime": 1741657205596
+    },
+    "460588c6-f354-4f3d-9e80-eae387ded2fe": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Monster.prefab",
+      "time": 1741597195192.329,
+      "removeTime": 1741657205596
+    },
+    "9545dbe5-183b-420a-8610-07b70c938504": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Page.prefab",
+      "time": 1741597195197.332,
+      "removeTime": 1741657205596
+    },
+    "c8233c95-d7d8-432a-a470-7dfd3ec6d9c0": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Right Menu.prefab",
+      "time": 1741597195198.7024,
+      "removeTime": 1741657205596
+    },
+    "3348a65a-a112-4005-88ce-37534ef0f813": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Search Block.prefab",
+      "time": 1741597195198.9253,
+      "removeTime": 1741657205596
+    },
+    "1c2a9087-adac-458b-9cd0-e3a2c745e3b8": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/SuspensionTips.prefab",
+      "time": 1741597195199.0515,
+      "removeTime": 1741657205596
+    },
+    "a8accd2e-6622-4c31-8a1e-4db5f2b568b5": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/item0.prefab",
+      "time": 1741597195199.373,
+      "removeTime": 1741657205596
+    },
+    "f6b3551c-1db7-4f25-80a9-dffee8002b39": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/loadAnimTest.prefab",
+      "time": 1741597195204.799,
+      "removeTime": 1741657205596
+    },
+    "6dc05d62-dd10-4a6b-a05c-ed926b4f3142": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/loadItem.prefab",
+      "time": 1741597195205.5835,
+      "removeTime": 1741657205596
+    },
+    "e4e220ed-9718-4587-9b54-82ac98f477d4": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/bg.png",
+      "time": 1741596665040.2344,
+      "removeTime": 1741657205596
+    },
+    "60d1c4d4-5eb7-4b9e-8e6e-4f1fa16effbb": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/close-icon.png",
+      "time": 1741596665039.625,
+      "removeTime": 1741657205596
+    },
+    "86678c0e-f8e7-409c-9ddf-e0a9bf555269": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/cocos_creator.jpg",
+      "time": 1741596665039.1921,
+      "removeTime": 1741657205596
+    },
+    "7b31062d-9e8e-4805-b77a-739a8295d9d0": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/cocos_creator_white.jpg",
+      "time": 1741596665038.6592,
+      "removeTime": 1741657205596
+    },
+    "6b4faed5-abc3-4a77-af9d-35ed67a5a48b": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/content.png",
+      "time": 1741596665038.1296,
+      "removeTime": 1741657205596
+    },
+    "d085509a-4690-4bef-94c7-36ee8e861e0f": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/content_mipmap.png",
+      "time": 1741596665036.9897,
+      "removeTime": 1741657205596
+    },
+    "206c3040-b374-40dc-a9ca-8800e556fba6": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/default_scrollbar_bg.png",
+      "time": 1741596665036.0798,
+      "removeTime": 1741657205596
+    },
+    "10f4622b-d456-4ba5-a166-e99804d9c397": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/default_scrollbar_vertical_bg.png",
+      "time": 1741596665035.723,
+      "removeTime": 1741657205596
+    },
+    "99ce2773-c288-4d67-9868-27bb8d5e9ea9": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/gold.png",
+      "time": 1741596665035.3574,
+      "removeTime": 1741657205596
+    },
+    "6ee311af-2e56-480a-98dd-ee63e3d5b24c": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/goldcoin.png",
+      "time": 1741596665034.8767,
+      "removeTime": 1741657205596
+    },
+    "4177692d-029f-445b-979b-f64421e6eafe": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/scrollbar.png",
+      "time": 1741596665030.4458,
+      "removeTime": 1741657205596
+    },
+    "1c211f8f-6068-423b-8de2-9c4735427d7d": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/scrollbarVertical.png",
+      "time": 1741596665030.0315,
+      "removeTime": 1741657205596
+    },
+    "da3df600-014d-40e1-8d48-c3800523e5e3": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/scrollviewbg.png",
+      "time": 1741596665029.585,
+      "removeTime": 1741657205596
+    },
+    "1b6a0b3c-2a0e-410a-95ab-53dc9a03a360": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/singleColor.png",
+      "time": 1741596665022.9604,
+      "removeTime": 1741657205596
+    },
+    "b11c4d7c-b15b-4eb6-883b-1697c1388e21": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/star.png",
+      "time": 1741596665019.2825,
+      "removeTime": 1741657205596
+    },
+    "3a46cb4c-2b90-46b1-8079-3465930c1de5": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/star_slot.png",
+      "time": 1741596665018.921,
+      "removeTime": 1741657205596
+    },
+    "513b8e0b-2ccd-4001-bfac-d3637a7cbdac": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/tab-bg.png",
+      "time": 1741596665018.5227,
+      "removeTime": 1741657205596
+    },
+    "d3ea15fb-3c29-4d96-8c92-56627ef06f12": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx",
+      "time": 1741596665124.0183,
+      "removeTime": 1741657205596
+    },
+    "5c76f955-1f6c-4642-9d3c-fbe71920e957": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx",
+      "time": 1741596665117.9946,
+      "removeTime": 1741657205596
+    },
+    "b9f2d2cf-b77c-4cdf-9231-1a8b0fa67694": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx",
+      "time": 1741596665113.2478,
+      "removeTime": 1741657205596
+    },
+    "ee942c08-c2a8-421e-bfbe-498229084afe": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_1.anim",
+      "time": 1741596665108.7747,
+      "removeTime": 1741657205596
+    },
+    "142dce2a-9f39-49e2-91c4-b62c5781d1a7": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_2.anim",
+      "time": 1741596665108.4158,
+      "removeTime": 1741657205596
+    },
+    "8456f3b4-0998-49ea-aeae-d5e8985ad816": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_3.anim",
+      "time": 1741596665108.0598,
+      "removeTime": 1741657205596
+    },
+    "c6322309-085e-49d1-a5e3-40d71598fd1f": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_4.anim",
+      "time": 1741596665107.69,
+      "removeTime": 1741657205596
+    },
+    "9b0754b9-bbfc-4259-8e63-91f3436f8679": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/customProperty/customAnim.anim",
+      "time": 1741596665106.9668,
+      "removeTime": 1741657205596
+    },
+    "1228ce55-ab81-40eb-8b0b-43fbcfe38d58": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/motionStreak/move_around.anim",
+      "time": 1741596665106.2732,
+      "removeTime": 1741657205597
+    },
+    "3cfdb519-2f4e-4b8f-a3b6-bc3d55d6ffae": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/back-forward.anim",
+      "time": 1741596665105.583,
+      "removeTime": 1741657205597
+    },
+    "5d29daeb-8963-4e11-8a16-9a1194ee58ca": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/caseIn-expo.anim",
+      "time": 1741596665105.2227,
+      "removeTime": 1741657205597
+    },
+    "4bffeeee-f2c6-4bec-ba74-cd671d12709b": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/caseInOut-expo.anim",
+      "time": 1741596665104.8887,
+      "removeTime": 1741657205597
+    },
+    "49c166a6-94ae-4b97-ab22-b1b46e001d73": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/caseOut-expo.anim",
+      "time": 1741596665104.5137,
+      "removeTime": 1741657205597
+    },
+    "4bb25e27-63ac-4ec7-aec9-d89d1cc5b619": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/linear.anim",
+      "time": 1741596665104.1587,
+      "removeTime": 1741657205597
+    },
+    "c0dcd181-8289-4a0a-a9e3-31bd10f2ff3f": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget/alignOnce_scale.anim",
+      "time": 1741596665102.0745,
+      "removeTime": 1741657205597
+    },
+    "33b23c50-d7b5-4df6-a861-d2e76565fdca": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget/rightWidget.anim",
+      "time": 1741596665101.7166,
+      "removeTime": 1741657205597
+    },
+    "5d0f5d8c-368f-4b56-820f-d846602301a8": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget/topWidget.anim",
+      "time": 1741596665101.3506,
+      "removeTime": 1741657205597
+    },
+    "33924d89-24ce-47dd-937a-58de4bfa46e6": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b/mecha_1502b_ske.json",
+      "time": 1741596665090.442,
+      "removeTime": 1741657205597
+    },
+    "cf1dcd14-ed5d-4297-aa09-7e98b52308a9": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b/mecha_1502b_tex.json",
+      "time": 1741596665089.4368,
+      "removeTime": 1741657205597
+    },
+    "bc83c66d-ed49-49ef-8f9a-6117e60dc489": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b/mecha_1502b_tex.png",
+      "time": 1741596665089.05,
+      "removeTime": 1741657205597
+    },
+    "3bb9be4b-9553-492e-bf8c-4e662f115fd0": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b/skin_1502b_ske.json",
+      "time": 1741596665087.5479,
+      "removeTime": 1741657205597
+    },
+    "a98d964a-ea21-4949-80e0-4c20f86b3d7e": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b/skin_1502b_tex.json",
+      "time": 1741596665087.107,
+      "removeTime": 1741657205597
+    },
+    "7fb26f28-3aae-4403-a40f-e6803496c7ae": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b/skin_1502b_tex.png",
+      "time": 1741596665086.7412,
+      "removeTime": 1741657205597
+    },
+    "63626a22-bdb3-4914-8032-4945b3486a5f": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man/SwordsMan_ske.dbbin",
+      "time": 1741596665085.4072,
+      "removeTime": 1741657205597
+    },
+    "6684b89f-54ee-4c2f-8ca0-4481f35f9d37": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man/SwordsMan_tex.json",
+      "time": 1741596665083.9248,
+      "removeTime": 1741657205597
+    },
+    "409c80c2-e957-4f23-9af5-ddb362345ce4": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man/SwordsMan_tex.png",
+      "time": 1741596665083.0498,
+      "removeTime": 1741657205597
+    },
+    "c78dc981-2031-4698-b43d-93f12a9e9bf3": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000/weapon_1000_ske.json",
+      "time": 1741596665080.4692,
+      "removeTime": 1741657205597
+    },
+    "78e6321b-7039-4762-9fdc-f82cd2a8d498": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000/weapon_1000_tex.json",
+      "time": 1741596665079.8909,
+      "removeTime": 1741657205597
+    },
+    "7637ab36-dfa5-438f-852d-c47577d75f75": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000/weapon_1000_tex.png",
+      "time": 1741596665079.3884,
+      "removeTime": 1741657205597
+    },
+    "e24fa342-815a-4478-b9db-ed592e7c0293": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle/atom.plist",
+      "time": 1741596665074.181,
+      "removeTime": 1741657205597
+    },
+    "bbf8cf2e-79ac-4dba-b059-768cbb44e3d1": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle/smoke.plist",
+      "time": 1741596665073.7703,
+      "removeTime": 1741657205597
+    },
+    "6f932e68-4c0f-4291-9759-852e509d2e83": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle/smoke.png",
+      "time": 1741596665073.3408,
+      "removeTime": 1741657205597
+    },
+    "c09681b1-0c3e-4794-b687-1756e646d970": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/BuleMonster.png",
+      "time": 1741596665034.3943,
+      "removeTime": 1741657205597
+    },
+    "08c1edea-46d4-41de-99dd-4f8b7f6b43b3": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/GreenMonster.png",
+      "time": 1741596665034.0134,
+      "removeTime": 1741657205597
+    },
+    "18041d7f-7c6a-47bd-ab6f-7a18b404a214": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/PurpleMonster.png",
+      "time": 1741596665033.6316,
+      "removeTime": 1741657205597
+    },
+    "8a6c5830-4127-4ddb-a3e6-028b3f793e83": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/RedMonster.png",
+      "time": 1741596665033.2666,
+      "removeTime": 1741657205597
+    },
+    "15ade27e-0212-4775-b5e4-8a8a258e8b63": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/YellowMonster.png",
+      "time": 1741596665032.9058,
+      "removeTime": 1741657205597
+    },
+    "8a60351e-d9cc-46f4-b1d6-6cde36a5b9ad": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/btn_disabled.png",
+      "time": 1741596665032.1934,
+      "removeTime": 1741657205597
+    },
+    "eb06a97a-5161-4d70-bac7-8a8f885f8399": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/btn_normal.png",
+      "time": 1741596665031.8281,
+      "removeTime": 1741657205597
+    },
+    "4e02ec2c-860e-43cc-9910-8ff2aa151884": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/btn_pressed.png",
+      "time": 1741596665031.4763,
+      "removeTime": 1741657205597
+    },
+    "0439ddbc-5893-4fd0-a233-d0f5e51ba5cd": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/editbox_bg.png",
+      "time": 1741596665031.1338,
+      "removeTime": 1741657205598
+    },
+    "0ee46d3e-e838-41ae-9725-11eb2b683ba6": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/AutoAtlas.pac",
+      "time": 1741596665029.1345,
+      "removeTime": 1741657205598
+    },
+    "0e4e6493-4250-4ed9-9a37-d0a9f0663113": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_down_0.png",
+      "time": 1741596665028.751,
+      "removeTime": 1741657205598
+    },
+    "8557c6d3-9eef-4b28-ac59-5d7337da100b": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_down_1.png",
+      "time": 1741596665028.3389,
+      "removeTime": 1741657205598
+    },
+    "dca29d40-5407-41b4-939d-34e72d3b00c2": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_down_2.png",
+      "time": 1741596665027.9363,
+      "removeTime": 1741657205598
+    },
+    "34ee9b9b-b514-4973-9cd4-cd15aafffe8b": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_0.png",
+      "time": 1741596665027.524,
+      "removeTime": 1741657205598
+    },
+    "a8f423a1-2069-4df5-a3a8-ea3ca8e11a6c": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_1.png",
+      "time": 1741596665027.1184,
+      "removeTime": 1741657205598
+    },
+    "c06cee9f-0b1a-41ea-9c1b-6dfeed3b3661": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_2.png",
+      "time": 1741596665026.6982,
+      "removeTime": 1741657205598
+    },
+    "ecf333cf-99ed-4814-990d-3109890fbd5e": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_3.png",
+      "time": 1741596665026.2637,
+      "removeTime": 1741657205598
+    },
+    "b976bd65-a4ca-467f-bca0-11f0ebea51f0": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_4.png",
+      "time": 1741596665025.8542,
+      "removeTime": 1741657205598
+    },
+    "c6e4d9aa-bab9-4b01-974e-1ba6747af9c1": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_0.png",
+      "time": 1741596665025.4255,
+      "removeTime": 1741657205598
+    },
+    "c5a5b09c-e012-4da8-a31b-d1f541f64bf4": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_1.png",
+      "time": 1741596665025.016,
+      "removeTime": 1741657205598
+    },
+    "1ba0dabd-fc65-4172-adee-e9167c6eb9ad": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_2.png",
+      "time": 1741596665024.6245,
+      "removeTime": 1741657205598
+    },
+    "7f97cb41-6ad1-45f7-afd9-3f9428490731": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_3.png",
+      "time": 1741596665024.229,
+      "removeTime": 1741657205598
+    },
+    "58fccb23-5c29-47f0-9545-7a82f23ca5ae": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_touch_0.png",
+      "time": 1741596665023.814,
+      "removeTime": 1741657205598
+    },
+    "dadab157-3ee8-4617-a29c-54d5b4fb7aa8": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_empty.png",
+      "time": 1741596665022.5898,
+      "removeTime": 1741657205598
+    },
+    "c82179a5-676d-423c-8de2-22874b5f4a6d": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_green.png",
+      "time": 1741596665022.2275,
+      "removeTime": 1741657205598
+    },
+    "87589cb6-1ba7-4961-83ec-bb8e7edb1991": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_green_p2.png",
+      "time": 1741596665021.8567,
+      "removeTime": 1741657205598
+    },
+    "ca4be22c-42c0-4632-9225-cd95960fdd79": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_green_un2.png",
+      "time": 1741596665021.4998,
+      "removeTime": 1741657205599
+    },
+    "6fd1ec90-efab-41ec-ab6b-4cd6a085951d": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/panel_bg.png",
+      "time": 1741596665021.132,
+      "removeTime": 1741657205599
+    },
+    "993f03a1-0964-4c0e-913b-344be7363e8c": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/panel_black.png",
+      "time": 1741596665020.7683,
+      "removeTime": 1741657205599
+    },
+    "5b540dd3-1633-495a-9c83-4e62cdd75faa": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/panel_highlight.png",
+      "time": 1741596665020.4062,
+      "removeTime": 1741657205599
+    },
+    "e2f89568-b554-41b7-a21a-b3a03b3c5431": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/ui_panel.png",
+      "time": 1741596665019.9973,
+      "removeTime": 1741657205599
+    },
+    "e51ceb1c-f6c3-43f4-813b-a8d78bb48259": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/tiled/barBg.png",
+      "time": 1741596665018.1584,
+      "removeTime": 1741657205599
+    },
+    "f6e0bec5-d58c-4287-885c-74feecfba31e": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/videplayIcon.jpg",
+      "time": 1741596665009.255,
+      "removeTime": 1741657205599
+    },
+    "571c9922-f406-4da0-a534-2b2fe7aa9e3c": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/alter.png",
+      "time": 1741596665071.6018,
+      "removeTime": 1741657205599
+    },
+    "a59dbc5e-6415-4483-8869-6b34ac2399a0": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundArch.png",
+      "time": 1741596665071.2563,
+      "removeTime": 1741657205599
+    },
+    "2673e1d0-1f62-4e41-a9a1-efb6c5739c2f": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundMountain.png",
+      "time": 1741596665070.9094,
+      "removeTime": 1741657205599
+    },
+    "3cde584f-f6dc-4a5a-9a50-0d6967e07809": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundTower.png",
+      "time": 1741596665070.5603,
+      "removeTime": 1741657205599
+    },
+    "5a62159c-a097-4070-856b-44ad742fcd2f": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundTree.png",
+      "time": 1741596665070.2034,
+      "removeTime": 1741657205599
+    },
+    "38bd2815-3c6f-4e18-8e59-0f67c2c9e3e6": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/blobBlue.png",
+      "time": 1741596665069.8506,
+      "removeTime": 1741657205599
+    },
+    "c457a61b-aaaa-4032-a93e-99c5e5af56c6": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/blobGreen.png",
+      "time": 1741596665069.4949,
+      "removeTime": 1741657205599
+    },
+    "712f2862-d5d6-4515-97a5-93dd77a27b0c": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/blue.png",
+      "time": 1741596665069.1577,
+      "removeTime": 1741657205599
+    },
+    "3b2c4478-ed0f-4158-9c5b-f6e5a6a42dae": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/bombStroked.png",
+      "time": 1741596665068.803,
+      "removeTime": 1741657205599
+    },
+    "03c08923-ea92-4244-8ea9-5e68413de64a": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/castleWall.png",
+      "time": 1741596665068.3784,
+      "removeTime": 1741657205599
+    },
+    "43d6aecc-a869-4b19-9d5a-b8193d165956": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/cloud.png",
+      "time": 1741596665067.8967,
+      "removeTime": 1741657205599
+    },
+    "1ffa5836-3549-4067-9342-361ce34fcd0b": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/column1.png",
+      "time": 1741596665067.5483,
+      "removeTime": 1741657205599
+    },
+    "2176d9c9-ee89-4d38-83ff-7804866d1611": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/column2.png",
+      "time": 1741596665067.2065,
+      "removeTime": 1741657205599
+    },
+    "b7f9aa1c-bca6-4f5b-b6ce-f1a553f248b0": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorBlueStroked.png",
+      "time": 1741596665066.8745,
+      "removeTime": 1741657205599
+    },
+    "9e4da3f1-0428-4b2d-b0a4-271d54b781e9": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorGreenStroke.png",
+      "time": 1741596665066.5251,
+      "removeTime": 1741657205599
+    },
+    "aa74ff5a-fb7f-419f-9f31-32054309242f": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorRedStroked.png",
+      "time": 1741596665066.1428,
+      "removeTime": 1741657205599
+    },
+    "4273e58d-60a0-4b8c-b0cc-8f6995524df3": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorStroked.png",
+      "time": 1741596665065.7961,
+      "removeTime": 1741657205599
+    },
+    "12962aaa-1fad-47cd-a2f0-76a3be7fa124": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/earthWall.png",
+      "time": 1741596665065.4421,
+      "removeTime": 1741657205599
+    },
+    "6236372d-1203-4399-aa37-a2ce41265bba": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/earthWall2.png",
+      "time": 1741596665064.9998,
+      "removeTime": 1741657205599
+    },
+    "ebec7c27-249f-431b-89eb-9d469a5382dd": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/exit.png",
+      "time": 1741596665064.6533,
+      "removeTime": 1741657205599
+    },
+    "2e3337f7-eca4-494e-8378-fcdf590b49e7": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/flare.png",
+      "time": 1741596665064.318,
+      "removeTime": 1741657205599
+    },
+    "79beb253-5271-4946-9f33-41c2337cf76d": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/gemBlueStroked.png",
+      "time": 1741596665063.9563,
+      "removeTime": 1741657205599
+    },
+    "699c80cf-50d6-4c1e-8a16-25e446a34994": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/gemRedStroked.png",
+      "time": 1741596665063.599,
+      "removeTime": 1741657205599
+    },
+    "793f66e7-3faa-4521-9d7b-7a3fe742eaad": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/grassLarge.png",
+      "time": 1741596665063.2388,
+      "removeTime": 1741657205599
+    },
+    "b84fa1ae-7da7-412a-bc34-751899920d13": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/grassSmall.png",
+      "time": 1741596665062.8772,
+      "removeTime": 1741657205599
+    },
+    "241b0753-a0a1-4ffc-a65f-c11eaefe3934": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/grey.png",
+      "time": 1741596665062.5076,
+      "removeTime": 1741657205599
+    },
+    "c2df56c0-4ed3-46da-8508-0a980cd3a561": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/hero.png",
+      "time": 1741596665062.1326,
+      "removeTime": 1741657205599
+    },
+    "3e241534-0276-425f-a912-9bfd9594fe53": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/keyGreenStroked.png",
+      "time": 1741596665061.7686,
+      "removeTime": 1741657205599
+    },
+    "8483db6b-b31d-40bb-8516-6fd2f980e88e": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/keyRedStroked.png",
+      "time": 1741596665061.4282,
+      "removeTime": 1741657205599
+    },
+    "c53963d3-b1f0-42ab-ad3f-f5a5072e2808": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/keyYellowStroked.png",
+      "time": 1741596665061.0872,
+      "removeTime": 1741657205599
+    },
+    "66c4f3bf-1f8f-460d-8030-e4a409212099": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform1.png",
+      "time": 1741596665060.7322,
+      "removeTime": 1741657205600
+    },
+    "da98947a-fe8e-4585-8b19-b10b8ba9a294": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform2.png",
+      "time": 1741596665060.3916,
+      "removeTime": 1741657205600
+    },
+    "2a813872-4c6d-4ae6-b3c2-d5c4040149df": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform3.png",
+      "time": 1741596665060.0498,
+      "removeTime": 1741657205600
+    },
+    "0c24da73-28a5-4872-a14c-4b75fc44295d": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform4.png",
+      "time": 1741596665059.6953,
+      "removeTime": 1741657205600
+    },
+    "fa95c2d3-727e-4836-a554-6ceca89b1569": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase1.png",
+      "time": 1741596665059.3481,
+      "removeTime": 1741657205600
+    },
+    "d5b72eb8-2e6f-4bef-9b9a-473483d124be": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase2.png",
+      "time": 1741596665058.9956,
+      "removeTime": 1741657205600
+    },
+    "687ac02f-fa70-436c-860d-34d2d459d238": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase3.png",
+      "time": 1741596665058.6362,
+      "removeTime": 1741657205600
+    },
+    "52e5788e-a077-44de-865b-e765ecda1a8f": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase4.png",
+      "time": 1741596665058.3052,
+      "removeTime": 1741657205600
+    },
+    "bc4750f9-8862-4481-9103-43158123aaad": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock1.png",
+      "time": 1741596665057.9631,
+      "removeTime": 1741657205600
+    },
+    "2735ba13-5983-4f4d-b667-f1a88cd9d262": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock2.png",
+      "time": 1741596665057.619,
+      "removeTime": 1741657205600
+    },
+    "06485a3c-ef0b-47ed-a5a9-43ce644a639d": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock3.png",
+      "time": 1741596665057.2817,
+      "removeTime": 1741657205600
+    },
+    "23f2022c-580d-47ad-a146-68f0ecc90505": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock4.png",
+      "time": 1741596665056.9387,
+      "removeTime": 1741657205600
+    },
+    "9537ad12-c326-4e5b-a541-dabd1faae5bd": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector1.png",
+      "time": 1741596665056.5964,
+      "removeTime": 1741657205600
+    },
+    "a654e242-dcca-4bd5-b80a-d3a2dbea534f": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector2.png",
+      "time": 1741596665056.244,
+      "removeTime": 1741657205600
+    },
+    "e19f6d69-fad6-4f7b-9b13-b2abd1ced2ff": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector3.png",
+      "time": 1741596665055.888,
+      "removeTime": 1741657205600
+    },
+    "8af0061a-e05e-4f49-b9ab-df62dbdfe2f7": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector4.png",
+      "time": 1741596665055.5266,
+      "removeTime": 1741657205600
+    },
+    "d53e25d2-ff5d-43eb-a1a1-8789b9c37d70": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/pushBlock1.png",
+      "time": 1741596665055.1763,
+      "removeTime": 1741657205600
+    },
+    "3fc6d752-ad3b-4f42-9315-80e20e982b21": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/pushBlock2.png",
+      "time": 1741596665054.8367,
+      "removeTime": 1741657205600
+    },
+    "b8599e9e-be8d-44c6-a2ae-959c32ff1f33": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/pushBlock3.png",
+      "time": 1741596665054.5012,
+      "removeTime": 1741657205600
+    },
+    "5b10793f-34e1-4b9c-a27b-ebdaaa164219": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sandbox.tmx",
+      "time": 1741596665054.1396,
+      "removeTime": 1741657205600
+    },
+    "7fff53ca-4944-4e69-8989-569d86a38dcb": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sandbox2.tmx",
+      "time": 1741596665053.7424,
+      "removeTime": 1741657205600
+    },
+    "b7454a1b-4384-4f59-895c-f52778ecc334": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/shadow.png",
+      "time": 1741596665053.3464,
+      "removeTime": 1741657205600
+    },
+    "fa5ab972-e225-4abb-978a-9539213468f4": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/shieldStroked.png",
+      "time": 1741596665052.9543,
+      "removeTime": 1741657205600
+    },
+    "d999ef05-3213-4e3b-b269-59b7fdc7f121": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sign.png",
+      "time": 1741596665052.5674,
+      "removeTime": 1741657205600
+    },
+    "4a6666e5-1f77-4389-917d-5dbd5be562dd": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/skeleton.png",
+      "time": 1741596665052.149,
+      "removeTime": 1741657205600
+    },
+    "e1a5271d-1c79-4008-8bf7-71860cec788c": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/swordStroked.png",
+      "time": 1741596665051.713,
+      "removeTime": 1741657205600
+    },
+    "3536bab4-320c-4972-bb37-d95accaed487": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/torch.png",
+      "time": 1741596665051.2847,
+      "removeTime": 1741657205600
+    },
+    "8b29c0ca-8347-4f23-b879-4b1a99efdbce": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/trap.png",
+      "time": 1741596665050.838,
+      "removeTime": 1741657205600
+    },
+    "dfcdda2a-0263-467d-b896-2a009cc55092": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/wallDecor1.png",
+      "time": 1741596665050.4438,
+      "removeTime": 1741657205600
+    },
+    "c2ab4fd9-6f72-416b-bd4e-222ff2556888": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/wallDecor2.png",
+      "time": 1741596665050.07,
+      "removeTime": 1741657205600
+    },
+    "38680104-cdc7-4fb2-b7e6-5ad16033f123": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/wallDecor3.png",
+      "time": 1741596665049.704,
+      "removeTime": 1741657205600
+    },
+    "74652ef9-5b79-4291-bffa-7ae434cc6d1c": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/window1.png",
+      "time": 1741596665049.248,
+      "removeTime": 1741657205600
+    },
+    "6f68b77e-764d-40a7-88dc-4ae63c8f17ea": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/window2.png",
+      "time": 1741596665048.8857,
+      "removeTime": 1741657205600
+    },
+    "e92dfaad-b97e-433a-98f3-ec26bda551c6": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/window3.png",
+      "time": 1741596665048.4844,
+      "removeTime": 1741657205600
+    },
+    "1d99a296-6ea0-4346-bd03-1b13c518f3aa": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/add.png",
+      "time": 1741596665017.417,
+      "removeTime": 1741657205600
+    },
+    "c5faabeb-c5b8-4134-8226-44164d39aa37": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/attention.png",
+      "time": 1741596665017.0603,
+      "removeTime": 1741657205600
+    },
+    "2861c917-9b98-4769-b0d8-99f6f7e39d5d": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/attention_padded.png",
+      "time": 1741596665016.7004,
+      "removeTime": 1741657205601
+    },
+    "79b9d085-0ee7-4f1f-9ab9-41c4155625da": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnDisabled.png",
+      "time": 1741596665016.3235,
+      "removeTime": 1741657205601
+    },
+    "542775e5-f868-48be-b020-05466b3de40e": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnHover.png",
+      "time": 1741596665015.8777,
+      "removeTime": 1741657205601
+    },
+    "35bf1053-d4ee-4720-956c-04169a1b9719": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnNormal.png",
+      "time": 1741596665015.4778,
+      "removeTime": 1741657205601
+    },
+    "abdc7af3-8d4e-4992-98b6-09c2a5df60f5": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnPressed.png",
+      "time": 1741596665014.9985,
+      "removeTime": 1741657205601
+    },
+    "2ae62c6d-8c27-4800-827a-1986615bcd74": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btn_options.png",
+      "time": 1741596665014.6296,
+      "removeTime": 1741657205601
+    },
+    "c04ffa62-4ce9-4e03-a89d-3f7602790c0a": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btn_play.png",
+      "time": 1741596665014.267,
+      "removeTime": 1741657205601
+    },
+    "791ab0b9-e42f-43ec-b3f3-9fd72ea55a61": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/cancel.png",
+      "time": 1741596665013.9082,
+      "removeTime": 1741657205601
+    },
+    "3229feab-b062-4c75-ad91-b962602def21": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/panelBG.png",
+      "time": 1741596665013.551,
+      "removeTime": 1741657205601
+    },
+    "69eedb09-a9f2-4027-8d1d-d694f811cd82": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/question.png",
+      "time": 1741596665013.171,
+      "removeTime": 1741657205601
+    },
+    "88ef086b-eac8-4c51-988f-daa12ea2123e": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/restart.png",
+      "time": 1741596665012.8096,
+      "removeTime": 1741657205601
+    },
+    "96b543c4-0236-4db7-81ad-f4a420be6dcb": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/setup.png",
+      "time": 1741596665012.4246,
+      "removeTime": 1741657205601
+    },
+    "5c4847ba-7145-41ca-b78a-26a44dbda85b": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/bg.png",
+      "time": 1741596665011.5925,
+      "removeTime": 1741657205601
+    },
+    "7aff329d-5d53-4659-8a29-5403bcc104a0": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/btn_normal.png",
+      "time": 1741596665011.2297,
+      "removeTime": 1741657205601
+    },
+    "e832cb5b-fd18-4945-8b55-7e620519a260": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/btn_pressed.png",
+      "time": 1741596665010.8542,
+      "removeTime": 1741657205601
+    },
+    "53e8405d-866f-4771-921d-1c059e8849ce": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/scrollview_bar.png",
+      "time": 1741596665010.4653,
+      "removeTime": 1741657205601
+    },
+    "068000cd-e4ad-47b6-8634-ea4c5fe11f4d": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/scrollview_bg.png",
+      "time": 1741596665010.057,
+      "removeTime": 1741657205601
+    },
+    "2b71273f-d797-47ac-936f-694d0ddbd831": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts",
+      "time": 1741597294930.6848,
+      "removeTime": 1741657205602
+    },
+    "ab3c91a5-a4b7-4001-84b7-d9dcca4d77eb": {
+      "path": "/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts/sheepView.ts",
+      "time": 1741597294929.9666,
+      "removeTime": 1741657205603
     }
   }
 }

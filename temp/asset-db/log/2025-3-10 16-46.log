@@ -1013,3 +1013,111 @@
 2025-3-10 17:23:30-debug: asset-db:refresh-all-database (41ms)
 2025-3-10 17:23:30-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
 2025-3-10 17:23:30-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:44:21-debug: refresh db internal success
+2025-3-10 17:44:21-debug: refresh db assets success
+2025-3-10 17:44:21-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:44:21-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:44:21-debug: asset-db:refresh-all-database (36ms)
+2025-3-10 17:44:21-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:44:21-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@04fb1
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@cf181
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@5a1a1
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/emoji.plist@19fe2
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/emoji.plist@34f21
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/emoji.plist@ecc53
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@3b6f1
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@c218b
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@7cc6b
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@d1ecf
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@614e4
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@52715
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@6982f
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@d19ec
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@123b8
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@2f938
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@e0c75
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@a8883
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@6a8f4
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@07ea9
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@c6353
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@4465a
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@d34df
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/sheep.plist@acab0
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@71655
+2025-3-10 17:45:09-warn: generateThumbnail failed for db://assets/res/atlas/ui.plist@e52eb
+2025-3-10 17:45:09-warn: TypeError: Cannot read properties of null (reading 'meta')    at Object.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/assets/sprite-frame.ccc:1:3204)    at AssetHandlerManager.generateThumbnail (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/manager/asset-handler-manager.ccc:1:10033)
+2025-3-10 17:45:10-debug: refresh db internal success
+2025-3-10 17:45:10-debug: refresh db assets success
+2025-3-10 17:45:10-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:45:10-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:45:10-debug: asset-db:refresh-all-database (21ms)
+2025-3-10 17:45:10-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:45:10-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:50:28-debug: refresh db internal success
+2025-3-10 17:50:28-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resbackground: #aaff85; color: #000;color: #000;
+2025-3-10 17:50:28-debug: refresh db assets success
+2025-3-10 17:50:28-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:50:28-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:50:28-debug: asset-db:refresh-all-database (41ms)
+2025-3-10 17:50:28-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:50:28-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 17:50:41-debug: refresh db internal success
+2025-3-10 17:50:41-debug: refresh db assets success
+2025-3-10 17:50:41-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:50:41-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:50:41-debug: asset-db:refresh-all-database (75ms)
+2025-3-10 17:50:50-debug: refresh db internal success
+2025-3-10 17:50:50-debug: refresh db assets success
+2025-3-10 17:50:50-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:50:50-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:50:50-debug: asset-db:refresh-all-database (46ms)
+2025-3-10 17:50:59-debug: refresh db internal success
+2025-3-10 17:50:59-debug: refresh db assets success
+2025-3-10 17:50:59-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:50:59-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:50:59-debug: asset-db:refresh-all-database (28ms)
+2025-3-10 17:51:12-debug: refresh db internal success
+2025-3-10 17:51:12-debug: refresh db assets success
+2025-3-10 17:51:12-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 17:51:12-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 17:51:12-debug: asset-db:refresh-all-database (45ms)
+2025-3-10 17:51:12-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 17:51:12-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-10 18:05:30-debug: refresh db internal success
+2025-3-10 18:05:30-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-10 18:05:30-debug: refresh db assets success
+2025-3-10 18:05:30-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-10 18:05:30-debug: asset-db:refresh-all-database (24ms)
+2025-3-10 18:05:30-debug: asset-db:worker-effect-data-processing (1ms)
+2025-3-10 18:05:30-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-3-11 09:18:38-debug: refresh db internal success
+2025-3-11 09:18:38-debug: refresh db assets success
+2025-3-11 09:18:38-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-3-11 09:18:38-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-3-11 09:18:38-debug: asset-db:refresh-all-database (50ms)

@@ -8,10 +8,10 @@
     "file:///Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline-types.ts": "./chunks/ad/ad4471749ee2670f87f75e8dfc6d6eadc58f7496.js",
     "file:///Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline.ts": "./chunks/97/977af1171136a24400239ed262f40b7207483423.js",
     "file:///Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/3f/3f836b73eb0384e41dadfab72b683f449670040c.js",
-    "file:///Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts/sheepView.ts": "./chunks/c8/c8f42b2d41ca7efe7b3e1f2ce32707d09895b22c.js"
+    "file:///Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts/boyPrefab.ts": "./chunks/61/610f3ba312810f877eabdd55e8203211e001792b.js"
   },
   "scopes": {
-    "./chunks/c8/c8f42b2d41ca7efe7b3e1f2ce32707d09895b22c.js": {
+    "./chunks/61/610f3ba312810f877eabdd55e8203211e001792b.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
     "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js": {
@@ -85,7 +85,7 @@
       "__unresolved_3": "./chunks/ad/ad4471749ee2670f87f75e8dfc6d6eadc58f7496.js",
       "__unresolved_4": "./chunks/97/977af1171136a24400239ed262f40b7207483423.js",
       "__unresolved_5": "./chunks/3f/3f836b73eb0384e41dadfab72b683f449670040c.js",
-      "__unresolved_6": "./chunks/c8/c8f42b2d41ca7efe7b3e1f2ce32707d09895b22c.js"
+      "__unresolved_6": "./chunks/61/610f3ba312810f877eabdd55e8203211e001792b.js"
     }
   }
 }
