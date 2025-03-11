@@ -7,7 +7,8 @@ const { ccclass, property } = _decorator;
 export class boyGroupView extends Component {
     @property(Prefab)
     private boyPrefab: Prefab
-    private result: Array<string> = ['x2', 'x2', '+1', 'end', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2']
+    @property({type:[String]})
+    private result: string[] = ['x2', 'x2', '+1', 'end', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2']
     private prefabViews: Array<boyPrefab> = []
     start() {
         director.on(eventTable.Item_Click, this.setResult, this)
