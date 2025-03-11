@@ -1,523 +1,0 @@
-2025-3-11 09:39:29-debug: start **** info
-2025-3-11 09:39:30-log: Cannot access game frame or container.
-2025-3-11 09:39:30-debug: asset-db:require-engine-code (497ms)
-2025-3-11 09:39:30-log: meshopt wasm decoder initialized
-2025-3-11 09:39:30-log: [bullet]:bullet wasm lib loaded.
-2025-3-11 09:39:30-log: [box2d]:box2d wasm lib loaded.
-2025-3-11 09:39:30-log: Cocos Creator v3.8.5
-2025-3-11 09:39:30-debug: [Assets Memory track]: asset-db-plugin-register: programming start:80.17MB, end 87.83MB, increase: 7.66MB
-2025-3-11 09:39:31-debug: [Assets Memory track]: asset-db-plugin-register: builder start:87.86MB, end 178.29MB, increase: 90.43MB
-2025-3-11 09:39:31-debug: [Assets Memory track]: asset-db-plugin-register: project start:80.05MB, end 175.42MB, increase: 95.37MB
-2025-3-11 09:39:31-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:79.36MB, end 175.44MB, increase: 96.08MB
-2025-3-11 09:39:31-debug: run package(runtime-dev-tools) handler(enable) start
-2025-3-11 09:39:30-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:29.45MB, end 79.34MB, increase: 49.89MB
-2025-3-11 09:39:30-log: Using legacy pipeline
-2025-3-11 09:39:30-log: Forward render pipeline initialized.
-2025-3-11 09:39:31-debug: run package(runtime-dev-tools) handler(enable) success!
-2025-3-11 09:39:31-debug: run package(taobao-mini-game) handler(enable) start
-2025-3-11 09:39:31-debug: run package(vivo-mini-game) handler(enable) start
-2025-3-11 09:39:31-debug: run package(vivo-mini-game) handler(enable) success!
-2025-3-11 09:39:31-debug: run package(web-desktop) handler(enable) success!
-2025-3-11 09:39:31-debug: run package(web-mobile) handler(enable) start
-2025-3-11 09:39:31-debug: run package(wechatgame) handler(enable) start
-2025-3-11 09:39:31-debug: run package(wechatgame) handler(enable) success!
-2025-3-11 09:39:31-debug: run package(wechatprogram) handler(enable) start
-2025-3-11 09:39:31-debug: run package(wechatprogram) handler(enable) success!
-2025-3-11 09:39:31-debug: run package(windows) handler(enable) start
-2025-3-11 09:39:31-debug: run package(windows) handler(enable) success!
-2025-3-11 09:39:31-debug: run package(xiaomi-quick-game) handler(enable) start
-2025-3-11 09:39:31-debug: run package(xiaomi-quick-game) handler(enable) success!
-2025-3-11 09:39:31-debug: run package(cocos-service) handler(enable) start
-2025-3-11 09:39:31-debug: run package(cocos-service) handler(enable) success!
-2025-3-11 09:39:31-debug: run package(im-plugin) handler(enable) start
-2025-3-11 09:39:31-debug: run package(taobao-mini-game) handler(enable) success!
-2025-3-11 09:39:31-debug: run package(web-desktop) handler(enable) start
-2025-3-11 09:39:31-debug: run package(placeholder) handler(enable) success!
-2025-3-11 09:39:31-debug: run package(web-mobile) handler(enable) success!
-2025-3-11 09:39:31-debug: run package(im-plugin) handler(enable) success!
-2025-3-11 09:39:31-debug: run package(placeholder) handler(enable) start
-2025-3-11 09:39:31-debug: asset-db:worker-init: initPlugin (1057ms)
-2025-3-11 09:39:31-debug: [Assets Memory track]: asset-db:worker-init start:29.44MB, end 176.34MB, increase: 146.90MB
-2025-3-11 09:39:31-debug: Run asset db hook programming:beforePreStart ...
-2025-3-11 09:39:31-debug: Run asset db hook engine-extends:beforePreStart ...
-2025-3-11 09:39:31-debug: Run asset db hook engine-extends:beforePreStart success!
-2025-3-11 09:39:31-debug: Run asset db hook programming:beforePreStart success!
-2025-3-11 09:39:31-debug: asset-db:worker-init (1683ms)
-2025-3-11 09:39:31-debug: asset-db-hook-programming-beforePreStart (54ms)
-2025-3-11 09:39:31-debug: asset-db-hook-engine-extends-beforePreStart (54ms)
-2025-3-11 09:39:31-debug: Preimport db internal success
-2025-3-11 09:39:31-debug: Preimport db assets success
-2025-3-11 09:39:31-debug: Run asset db hook programming:afterPreStart ...
-2025-3-11 09:39:31-debug: starting packer-driver...
-2025-3-11 09:39:31-debug: initialize scripting environment...
-2025-3-11 09:39:31-debug: [[Executor]] prepare before lock
-2025-3-11 09:39:31-debug: Set detail map pack:///resolution-detail-map.json: {}
-2025-3-11 09:39:31-debug: [[Executor]] prepare after unlock
-2025-3-11 09:39:31-debug: [Assets Memory track]: asset-db:worker-init: preStart start:176.35MB, end 180.20MB, increase: 3.85MB
-2025-3-11 09:39:31-debug: Start up the 'internal' database...
-2025-3-11 09:39:31-debug: Run asset db hook engine-extends:afterPreStart ...
-2025-3-11 09:39:31-debug: Run asset db hook engine-extends:afterPreStart success!
-2025-3-11 09:39:31-debug: Run asset db hook programming:afterPreStart success!
-2025-3-11 09:39:31-debug: asset-db-hook-programming-afterPreStart (338ms)
-2025-3-11 09:39:31-debug: asset-db:worker-effect-data-processing (199ms)
-2025-3-11 09:39:31-debug: asset-db-hook-engine-extends-afterPreStart (200ms)
-2025-3-11 09:39:32-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:176.43MB, end 192.06MB, increase: 15.63MB
-2025-3-11 09:39:32-debug: Start up the 'assets' database...
-2025-3-11 09:39:32-debug: asset-db:worker-startup-database[internal] (498ms)
-2025-3-11 09:39:32-debug: [Assets Memory track]: asset-db:worker-startup-database[assets] start:178.91MB, end 191.55MB, increase: 12.64MB
-2025-3-11 09:39:32-debug: lazy register asset handler text
-2025-3-11 09:39:32-debug: lazy register asset handler json
-2025-3-11 09:39:32-debug: lazy register asset handler spine-data
-2025-3-11 09:39:32-debug: lazy register asset handler dragonbones-atlas
-2025-3-11 09:39:32-debug: lazy register asset handler terrain
-2025-3-11 09:39:32-debug: lazy register asset handler dragonbones
-2025-3-11 09:39:32-debug: lazy register asset handler javascript
-2025-3-11 09:39:32-debug: lazy register asset handler typescript
-2025-3-11 09:39:32-debug: lazy register asset handler scene
-2025-3-11 09:39:32-debug: lazy register asset handler directory
-2025-3-11 09:39:32-debug: lazy register asset handler sprite-frame
-2025-3-11 09:39:32-debug: lazy register asset handler tiled-map
-2025-3-11 09:39:32-debug: lazy register asset handler *
-2025-3-11 09:39:32-debug: lazy register asset handler image
-2025-3-11 09:39:32-debug: lazy register asset handler sign-image
-2025-3-11 09:39:32-debug: lazy register asset handler alpha-image
-2025-3-11 09:39:32-debug: lazy register asset handler texture
-2025-3-11 09:39:32-debug: lazy register asset handler texture-cube
-2025-3-11 09:39:32-debug: lazy register asset handler erp-texture-cube
-2025-3-11 09:39:32-debug: lazy register asset handler render-texture
-2025-3-11 09:39:32-debug: lazy register asset handler texture-cube-face
-2025-3-11 09:39:32-debug: lazy register asset handler rt-sprite-frame
-2025-3-11 09:39:32-debug: lazy register asset handler gltf
-2025-3-11 09:39:32-debug: lazy register asset handler gltf-mesh
-2025-3-11 09:39:32-debug: lazy register asset handler gltf-animation
-2025-3-11 09:39:32-debug: [Assets Memory track]: asset-db:worker-init: startup start:180.54MB, end 191.56MB, increase: 11.02MB
-2025-3-11 09:39:32-debug: lazy register asset handler buffer
-2025-3-11 09:39:32-debug: lazy register asset handler gltf-scene
-2025-3-11 09:39:32-debug: lazy register asset handler gltf-embeded-image
-2025-3-11 09:39:32-debug: lazy register asset handler fbx
-2025-3-11 09:39:32-debug: lazy register asset handler physics-material
-2025-3-11 09:39:32-debug: lazy register asset handler material
-2025-3-11 09:39:32-debug: lazy register asset handler gltf-material
-2025-3-11 09:39:32-debug: lazy register asset handler effect-header
-2025-3-11 09:39:32-debug: lazy register asset handler audio-clip
-2025-3-11 09:39:32-debug: lazy register asset handler animation-clip
-2025-3-11 09:39:32-debug: lazy register asset handler effect
-2025-3-11 09:39:32-debug: lazy register asset handler animation-graph-variant
-2025-3-11 09:39:32-debug: lazy register asset handler animation-mask
-2025-3-11 09:39:32-debug: lazy register asset handler ttf-font
-2025-3-11 09:39:32-debug: lazy register asset handler bitmap-font
-2025-3-11 09:39:32-debug: lazy register asset handler particle
-2025-3-11 09:39:32-debug: lazy register asset handler sprite-atlas
-2025-3-11 09:39:32-debug: lazy register asset handler auto-atlas
-2025-3-11 09:39:32-debug: lazy register asset handler render-pipeline
-2025-3-11 09:39:32-debug: lazy register asset handler label-atlas
-2025-3-11 09:39:32-debug: lazy register asset handler render-stage
-2025-3-11 09:39:32-debug: lazy register asset handler render-flow
-2025-3-11 09:39:32-debug: lazy register asset handler instantiation-material
-2025-3-11 09:39:32-debug: lazy register asset handler instantiation-mesh
-2025-3-11 09:39:32-debug: lazy register asset handler instantiation-skeleton
-2025-3-11 09:39:32-debug: lazy register asset handler instantiation-animation
-2025-3-11 09:39:32-debug: lazy register asset handler video-clip
-2025-3-11 09:39:32-debug: lazy register asset handler prefab
-2025-3-11 09:39:32-debug: lazy register asset handler gltf-skeleton
-2025-3-11 09:39:32-debug: lazy register asset handler animation-graph
-2025-3-11 09:39:32-debug: asset-db:worker-startup-database[assets] (452ms)
-2025-3-11 09:39:32-debug: asset-db:ready (3728ms)
-2025-3-11 09:39:32-debug: asset-db:start-database (530ms)
-2025-3-11 09:39:32-debug: init worker message success
-2025-3-11 09:39:32-debug: programming:execute-script (4ms)
-2025-3-11 09:39:32-debug: [Build Memory track]: builder:worker-init start:195.86MB, end 201.74MB, increase: 5.87MB
-2025-3-11 09:39:32-debug: builder:worker-init (258ms)
-2025-3-11 09:39:58-debug: refresh db internal success
-2025-3-11 09:39:58-debug: refresh db assets success
-2025-3-11 09:39:58-debug: Run asset db hook engine-extends:afterRefresh ...
-2025-3-11 09:39:58-debug: Run asset db hook engine-extends:afterRefresh success!
-2025-3-11 09:39:58-debug: asset-db:refresh-all-database (46ms)
-2025-3-11 09:39:58-debug: asset-db:worker-effect-data-processing (1ms)
-2025-3-11 09:39:58-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
-2025-3-11 09:40:04-debug: programming:execute-script (1ms)
-2025-3-11 09:40:05-debug: start remove asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabs...
-2025-3-11 09:40:05-debug: start remove asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res...
-2025-3-11 09:40:05-debug: start remove asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts...
-2025-3-11 09:40:05-debug: start refresh asset from /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabs...
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabsbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: refresh asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets success
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3dbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animationbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbonesbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: start refresh asset from /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts...
-2025-3-11 09:40:05-debug: start refresh asset from /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res...
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlasbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: remove asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/Prefabs success
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/importedbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEventbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/texturesbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamobackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabsbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/motionStreakbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502bbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/movebackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/customPropertybackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widgetbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502bbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-manbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knightbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particlebackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-iconbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new uibackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheepbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/slicedbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/tiledbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/cocosvideo.mp4background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/mapbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/uibackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/sheep_hit.animbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/sheep_jump.animbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/tipsAnim.animbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/sheep_run.animbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.plist@19fe2background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@52715background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@71655background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.plist@34f21background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@cf181background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@7cc6bbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/barriers.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.plist@ecc53background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/ground.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@d1ecfbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@5a1a1background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/hexa.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/emoji.plistbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@04fb1background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/hexa.tmxbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@acab0background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/iso-test.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/iso-test.tmxbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@614e4background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@6982fbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/map.tmxbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@d19ecbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@3b6f1background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/perspective_walls.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/perspective_walls.tmxbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@c218bbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/perspective_walls.tsxbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@123b8background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@4465abackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@2f938background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Background.prefabbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@d34dfbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Center Menu.prefabbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Left Menu.prefabbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@e0c75background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/ListItem.prefabbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plist@e52ebbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Monster.prefabbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Page.prefabbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@a8883background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Right Menu.prefabbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/ui.plistbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/Search Block.prefabbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/SuspensionTips.prefabbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@6a8f4background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/item0.prefabbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/loadAnimTest.prefabbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/prefabs/loadItem.prefabbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/bg.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@07ea9background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/close-icon.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/cocos_creator.jpgbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/cocos_creator_white.jpgbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/content.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plist@c6353background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/content_mipmap.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/default_scrollbar_bg.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/default_scrollbar_vertical_bg.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/atlas/sheep.plistbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/gold.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/goldcoin.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/scrollbar.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/scrollbarVertical.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/scrollviewbg.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/singleColor.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/star.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/star_slot.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/tab-bg.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx@30732background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx@30732background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx@30732background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx@01512background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_1.animbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_2.animbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx@01512background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx@01512background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_3.animbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/animEvent/step_4.animbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx@eca75background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx@eca75background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx@eca75background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/customProperty/customAnim.animbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/motionStreak/move_around.animbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx@1423abackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/back-forward.animbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/caseIn-expo.animbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx@18d6fbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx@bef1abackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx@f1394background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx@f1394background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx@f1394background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/caseInOut-expo.animbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/caseOut-expo.animbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx@0f0f9background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx@0f0f9background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/move/linear.animbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget/alignOnce_scale.animbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx@124e8background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx@0f0f9background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx@124e8background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget/rightWidget.animbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/animation/widget/topWidget.animbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbx@b0785background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx@124e8background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbx@d2614background: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b/mecha_1502b_ske.jsonbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Capoeira.fbxbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b/mecha_1502b_tex.jsonbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbx@0551cbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model@Defeated.fbxbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/mecha_1502b/mecha_1502b_tex.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b/skin_1502b_ske.jsonbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/3d/mixamo/model.fbxbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b/skin_1502b_tex.jsonbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/skin_1502b/skin_1502b_tex.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man/SwordsMan_tex.jsonbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man/SwordsMan_ske.dbbinbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/sword-man/SwordsMan_tex.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000/weapon_1000_ske.jsonbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000/weapon_1000_tex.jsonbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/dragonbones/weapon_1000/weapon_1000_tex.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle/atom.plistbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle/smoke.plistbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/particle/smoke.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/BuleMonster.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/GreenMonster.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/PurpleMonster.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/RedMonster.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/monster-icon/YellowMonster.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/btn_disabled.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/btn_normal.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/btn_pressed.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/AutoAtlas.pacbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/new ui/editbox_bg.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_down_0.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_down_1.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_down_2.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_0.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_2.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_1.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_3.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_jump_4.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_0.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_1.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_2.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_run_3.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sheep/sheep_touch_0.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_empty.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_green.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_green_un2.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/button_green_p2.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/panel_bg.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/panel_black.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/panel_highlight.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/sliced/ui_panel.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/tiled/barBg.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/videplayIcon.jpgbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/alter.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundArch.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundMountain.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundTower.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/backgroundTree.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/blobBlue.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/blobGreen.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/blue.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/bombStroked.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/castleWall.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/cloud.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/column1.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorBlueStroked.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/column2.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorGreenStroke.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorRedStroked.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/doorStroked.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/earthWall.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/earthWall2.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/exit.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/flare.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/gemBlueStroked.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/gemRedStroked.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/grassSmall.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/grey.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/grassLarge.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/hero.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/keyGreenStroked.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/keyYellowStroked.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform1.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/keyRedStroked.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform2.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform3.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platform4.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase1.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase2.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase3.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBase4.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock1.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock2.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock3.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformBlock4.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector1.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector2.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector3.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/platformConnector4.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/pushBlock1.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/pushBlock2.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/pushBlock3.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sandbox.tmxbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sandbox2.tmxbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/shadow.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/shieldStroked.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/sign.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/swordStroked.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/torch.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/trap.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/skeleton.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/wallDecor1.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/wallDecor2.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/wallDecor3.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/window1.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/window2.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/add.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/imported/sticker-knight/map/window3.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/attention.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnDisabled.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/attention_padded.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnHover.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnNormal.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btnPressed.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btn_options.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/btn_play.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/cancel.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/panelBG.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/question.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/restart.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style1/setup.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/bg.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/btn_normal.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/btn_pressed.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/scrollview_bar.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res/textures/ui/style2/scrollview_bg.pngbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scriptsbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: %cDestroy%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts/sheepView.tsbackground: #ffb8b8; color: #000;color: #000;
-2025-3-11 09:40:05-debug: remove asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/res success
-2025-3-11 09:40:05-debug: refresh asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets success
-2025-3-11 09:40:05-debug: refresh asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets success
-2025-3-11 09:40:05-debug: remove asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts success
-2025-3-11 09:41:17-debug: refresh db internal success
-2025-3-11 09:41:17-debug: refresh db assets success
-2025-3-11 09:41:17-debug: Run asset db hook engine-extends:afterRefresh ...
-2025-3-11 09:41:17-debug: Run asset db hook engine-extends:afterRefresh success!
-2025-3-11 09:41:17-debug: asset-db:refresh-all-database (26ms)
-2025-3-11 09:41:17-debug: asset-db:worker-effect-data-processing (1ms)
-2025-3-11 09:41:17-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
-2025-3-11 09:41:31-debug: start refresh asset from /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource...
-2025-3-11 09:41:31-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resourcebackground: #aaff85; color: #000;color: #000;
-2025-3-11 09:41:31-debug: refresh asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets success
-2025-3-11 09:41:38-debug: start refresh asset from /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine...
-2025-3-11 09:41:38-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spinebackground: #aaff85; color: #000;color: #000;
-2025-3-11 09:41:38-debug: refresh asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource success
-2025-3-11 09:41:38-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resourcebackground: #aaff85; color: #000;color: #000;
-2025-3-11 09:41:43-debug: start refresh asset from /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine/spineboy.txt...
-2025-3-11 09:41:43-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine/spineboy.txtbackground: #aaff85; color: #000;color: #000;
-2025-3-11 09:41:43-debug: asset-db:reimport-asset/Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine/spineboy.png (1ms)
-2025-3-11 09:41:43-debug: start refresh asset from /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine/spineboy.png...
-2025-3-11 09:41:43-debug: start refresh asset from /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine/spineboy.json...
-2025-3-11 09:41:43-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine/spineboy.pngbackground: #aaff85; color: #000;color: #000;
-2025-3-11 09:41:43-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine/spineboy.png@6c48abackground: #aaff85; color: #000;color: #000;
-2025-3-11 09:41:43-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine/spineboy.jsonbackground: #aaff85; color: #000;color: #000;
-2025-3-11 09:41:43-log: UUID is initialized for /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine/spineboy.png.
-2025-3-11 09:41:43-debug: refresh asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine success
-2025-3-11 09:41:43-debug: refresh asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine success
-2025-3-11 09:41:43-debug: refresh asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spine success
-2025-3-11 09:41:43-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/spinebackground: #aaff85; color: #000;color: #000;
-2025-3-11 09:42:11-debug: refresh db internal success
-2025-3-11 09:42:11-debug: refresh db assets success
-2025-3-11 09:42:11-debug: Run asset db hook engine-extends:afterRefresh ...
-2025-3-11 09:42:11-debug: Run asset db hook engine-extends:afterRefresh success!
-2025-3-11 09:42:11-debug: asset-db:refresh-all-database (38ms)
-2025-3-11 09:42:11-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
-2025-3-11 09:43:15-debug: start refresh asset from /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/prefabs...
-2025-3-11 09:43:15-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/prefabsbackground: #aaff85; color: #000;color: #000;
-2025-3-11 09:43:15-debug: refresh asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource success
-2025-3-11 09:43:15-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resourcebackground: #aaff85; color: #000;color: #000;
-2025-3-11 09:43:32-debug: refresh db internal success
-2025-3-11 09:43:32-debug: refresh db assets success
-2025-3-11 09:43:32-debug: Run asset db hook engine-extends:afterRefresh ...
-2025-3-11 09:43:32-debug: Run asset db hook engine-extends:afterRefresh success!
-2025-3-11 09:43:32-debug: asset-db:refresh-all-database (39ms)
-2025-3-11 09:43:32-debug: asset-db:worker-effect-data-processing (1ms)
-2025-3-11 09:43:32-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
-2025-3-11 09:43:45-debug: start refresh asset from /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts...
-2025-3-11 09:43:45-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scriptsbackground: #aaff85; color: #000;color: #000;
-2025-3-11 09:43:45-debug: refresh asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets success
-2025-3-11 09:44:05-debug: start refresh asset from /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts/boyPrefab.ts...
-2025-3-11 09:44:05-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts/boyPrefab.tsbackground: #aaff85; color: #000;color: #000;
-2025-3-11 09:44:05-debug: refresh asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts success
-2025-3-11 09:44:05-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scriptsbackground: #aaff85; color: #000;color: #000;
-2025-3-11 09:44:06-warn: Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
-2025-3-11 09:44:16-debug: refresh db internal success
-2025-3-11 09:44:16-debug: refresh db assets success
-2025-3-11 09:44:16-debug: Run asset db hook engine-extends:afterRefresh ...
-2025-3-11 09:44:16-debug: Run asset db hook engine-extends:afterRefresh success!
-2025-3-11 09:44:16-debug: asset-db:refresh-all-database (38ms)
-2025-3-11 09:44:16-debug: asset-db:worker-effect-data-processing (1ms)
-2025-3-11 09:44:16-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
-2025-3-11 09:44:23-debug: refresh db internal success
-2025-3-11 09:44:23-debug: refresh db assets success
-2025-3-11 09:44:23-debug: Run asset db hook engine-extends:afterRefresh ...
-2025-3-11 09:44:23-debug: Run asset db hook engine-extends:afterRefresh success!
-2025-3-11 09:44:23-debug: asset-db:refresh-all-database (29ms)
-2025-3-11 09:44:23-debug: asset-db:worker-effect-data-processing (1ms)
-2025-3-11 09:44:23-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
-2025-3-11 09:44:28-debug: start refresh asset from /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/prefabs/Boy.prefab...
-2025-3-11 09:44:28-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/prefabs/Boy.prefabbackground: #aaff85; color: #000;color: #000;
-2025-3-11 09:44:28-debug: refresh asset /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/prefabs success
-2025-3-11 09:44:29-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/resource/prefabsbackground: #aaff85; color: #000;color: #000;
-2025-3-11 09:50:27-debug: refresh db internal success
-2025-3-11 09:50:27-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts/boyPrefab.tsbackground: #aaff85; color: #000;color: #000;
-2025-3-11 09:50:27-debug: refresh db assets success
-2025-3-11 09:50:27-debug: Run asset db hook engine-extends:afterRefresh ...
-2025-3-11 09:50:27-debug: Run asset db hook engine-extends:afterRefresh success!
-2025-3-11 09:50:27-debug: asset-db:refresh-all-database (33ms)
-2025-3-11 09:50:27-debug: asset-db:worker-effect-data-processing (2ms)
-2025-3-11 09:50:27-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
-2025-3-11 10:17:21-debug: refresh db internal success
-2025-3-11 10:17:21-debug: refresh db assets success
-2025-3-11 10:17:21-debug: Run asset db hook engine-extends:afterRefresh ...
-2025-3-11 10:17:21-debug: Run asset db hook engine-extends:afterRefresh success!
-2025-3-11 10:17:21-debug: asset-db:refresh-all-database (51ms)
-2025-3-11 10:17:21-debug: asset-db:worker-effect-data-processing (1ms)
-2025-3-11 10:17:21-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
-2025-3-11 10:22:00-debug: refresh db internal success
-2025-3-11 10:22:00-debug: %cImport%c: /Users/siting.chuang/Desktop/homeWork/SitingHomeWork001/assets/scripts/boyPrefab.tsbackground: #aaff85; color: #000;color: #000;
-2025-3-11 10:22:00-debug: refresh db assets success
-2025-3-11 10:22:00-debug: Run asset db hook engine-extends:afterRefresh ...
-2025-3-11 10:22:00-debug: Run asset db hook engine-extends:afterRefresh success!
-2025-3-11 10:22:00-debug: asset-db:refresh-all-database (34ms)
-2025-3-11 10:22:00-debug: asset-db:worker-effect-data-processing (2ms)
-2025-3-11 10:22:00-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
