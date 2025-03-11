@@ -12,6 +12,7 @@ export class boyGroupView extends Component {
     start() {
         director.on(eventTable.Item_Click, this.setResult, this)
         director.on(eventTable.Show_End_Complete, this.gameOver, this)
+        director.on(eventTable.All_Init,this.init,this)
         this.createPrefabs()
     }
 
@@ -30,7 +31,6 @@ export class boyGroupView extends Component {
 
     private init() {
         this.result = ['x2', 'x2', '+1', 'end', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2']
-        director.emit(eventTable.All_Init)
     }
 
     private setResult(index: number) {

@@ -32,7 +32,6 @@ export class boyPrefab extends Component {
 
     private init() {
         this._allReadyWin = false
-        console.log("Siting" + this._allReadyWin)
         this.spine.setAnimation(0, animationName.Idle, true)
         this.spine.color = new Color("#FFFFFF")
         this.setText("")
