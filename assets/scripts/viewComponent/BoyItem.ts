@@ -1,10 +1,12 @@
 import { _decorator, Color, Component, director, Label, Node, sp } from 'cc';
 import { EventTable } from '../EventTable';
+import { PlayType } from '../Controller/GameViewController';
 const { ccclass, property } = _decorator;
 
-@ccclass('boyPrefab')
+@ccclass('BoyItem')
 export class BoyItem extends Component {
     private index: number
+    private curState: ItemState
     private _allReadyWin: boolean = false
     get allReadyWin(): boolean {
         return this._allReadyWin;
@@ -40,15 +42,20 @@ export class BoyItem extends Component {
         this.closeEventListener()
     }
     protected onEnable(): void {
-        this.init()
+        this.stateChanged(ItemState.Init)
     }
 
     private init() {
-        this._allReadyWin = false
-        this.spine.setAnimation(0, animationName.Idle, true)
+        this.curState = ItemState.Init
         this.spine.color = new Color("#FFFFFF")
         this.setText("")
         this.turnOnClick()
+        this.stateChanged(ItemState.Idle)
+    }
+
+    private idle(){
+        this.curState = ItemState.Idle
+        this.spine.setAnimation(0, animationName.Idle, true)
     }
 
     public setText(str: string) {
@@ -59,27 +66,42 @@ export class BoyItem extends Component {
         this.index = num
     }
 
+    public showAnimation(type: PlayType , str?: string){
+        if(this.curState!=ItemState.Idle)
+            return
+        switch(type){
+            case PlayType.Win:
+                this.win(str)
+                break
+            case PlayType.End:
+                this.end("End")
+                break
+            case PlayType.Game_Over:
+                this.gameOver()
+                break
+        }
+        this.stateChanged(ItemState.Complete)
+    }
+
     public win(str: string) {
         this.spine.setAnimation(0, animationName.Win, false)
         this.setText(str)
-        this._allReadyWin = true
-        this.turnOffClick()
     }
 
     public end(str: string) {
-        this.spine.setAnimation(0, animationName.Hit, false)
+        this.spine.setAnimation(0, animationName.End, false)
         this.setText(str)
         this.spine.color = new Color("#3A3131")
-        this._allReadyWin = true
+    }
+
+    private complete(){
+        this.curState = ItemState.Complete
         this.turnOffClick()
     }
 
     private gameOver() {
-        if (!this._allReadyWin) {
             this.spine.setAnimation(0, animationName.Death, false)
             this.spine.color = new Color("#3A3131")
-            this.turnOffClick()
-        }
     }
 
     private turnOffClick() {
@@ -94,11 +116,31 @@ export class BoyItem extends Component {
         director.emit(EventTable.Item_Click, this.index)
     }
 
+    public stateChanged(state: ItemState) {
+        switch (state) {
+            case ItemState.Init:
+                this.init()
+                break
+            case ItemState.Idle:
+                this.idle()
+                break
+            case ItemState.Complete:
+                this.complete()
+                break
+        }
+    }
+
 }
 enum animationName {
     Win = "jump",
     Death = "death",
     Idle = "idle",
-    Hit = "hit"
+    End = "hit"
+}
+
+enum ItemState {
+    Init,
+    Idle,
+    Complete
 }
 
