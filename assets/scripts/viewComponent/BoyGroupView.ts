@@ -1,6 +1,7 @@
 import { _decorator, Component, director, instantiate, Node, Prefab } from 'cc';
-import { boyPrefab } from './boyPrefab';
-import { eventTable } from './eventTable';
+import { EventTable } from '../EventTable';
+import { BoyItem } from './BoyItem';
+
 const { ccclass, property } = _decorator;
 
 @ccclass('boyGroupView')
@@ -9,7 +10,7 @@ export class boyGroupView extends Component {
     private boyPrefab: Prefab
     @property({type:[String]})
     private result: string[] = ['x2', 'x2', '+1', 'end', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2']
-    private prefabViews: Array<boyPrefab> = []
+    private prefabViews: Array<BoyItem> = []
 
     start() {
         this.openEventListener()
@@ -17,15 +18,15 @@ export class boyGroupView extends Component {
     }
 
     private openEventListener() {
-        director.on(eventTable.Item_Click, this.setResult, this)
-        director.on(eventTable.Show_End_Complete, this.gameOver, this)
-        director.on(eventTable.All_Init,this.init,this)
+        director.on(EventTable.Item_Click, this.setResult, this)
+        director.on(EventTable.Show_End_Complete, this.gameOver, this)
+        director.on(EventTable.All_Init,this.init,this)
     }
 
     private closeEventListener() {
-        director.off(eventTable.Item_Click, this.setResult, this)
-        director.off(eventTable.Show_End_Complete, this.gameOver, this)
-        director.off(eventTable.All_Init,this.init,this)
+        director.off(EventTable.Item_Click, this.setResult, this)
+        director.off(EventTable.Show_End_Complete, this.gameOver, this)
+        director.off(EventTable.All_Init,this.init,this)
     }
 
     protected onDestroy(): void {
@@ -36,7 +37,7 @@ export class boyGroupView extends Component {
         for (var i = 0; i < this.result.length; i++) {
             let prefabNode = instantiate(this.boyPrefab)
             this.node.addChild(prefabNode)
-            this.prefabViews.push(prefabNode.getComponent(boyPrefab))
+            this.prefabViews.push(prefabNode.getComponent(BoyItem))
             this.prefabViews[i].setIndex(i)
         }
     }
@@ -67,12 +68,12 @@ export class boyGroupView extends Component {
 
     private showMultipleWin(index: number, result: string, winNum: number) {
         this.prefabViews[index].win(result)
-        director.emit(eventTable.Multiple_Win, winNum)
+        director.emit(EventTable.Multiple_Win, winNum)
     }
 
     private showRoundsWin(index: number, result: string, winNum: number) {
         this.prefabViews[index].win(result)
-        director.emit(eventTable.Rounds_Win, winNum)
+        director.emit(EventTable.Rounds_Win, winNum)
     }
 
     private showEnd(index: number) {
@@ -80,7 +81,7 @@ export class boyGroupView extends Component {
     }
 
     private gameOver() {
-        director.emit(eventTable.Game_Over)
+        director.emit(EventTable.Game_Over)
         this.prefabViews.forEach(element => {
             if (!element.allReadyWin) {
                 if (this.result.length > 0)

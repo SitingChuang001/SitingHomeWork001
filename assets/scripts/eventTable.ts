@@ -1,4 +1,4 @@
-export enum eventTable  {
+export enum EventTable  {
     Item_Click = "Item_Click",
     All_Init = "All_Init",
     Multiple_Win = "Multiple_Win",

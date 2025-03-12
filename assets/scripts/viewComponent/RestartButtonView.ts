@@ -1,5 +1,5 @@
 import { _decorator, Button, Component, director, Node } from 'cc';
-import { EventTable } from './EventTable';
+import { EventTable } from '../EventTable';
 const { ccclass, property } = _decorator;
 
 @ccclass('restartButtonView')

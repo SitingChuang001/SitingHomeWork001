@@ -1,5 +1,5 @@
 import { _decorator, Component, director, Label, Node } from 'cc';
-import { eventTable } from './eventTable';
+import { EventTable } from '../EventTable';
 const { ccclass, property } = _decorator;
 
 @ccclass('roundsView')
@@ -15,13 +15,13 @@ export class roundsView extends Component {
         }
 
         private openEventListener() {
-            director.on(eventTable.All_Init, this.init, this)
-            director.on(eventTable.Rounds_Win, this.getWin, this)
+            director.on(EventTable.All_Init, this.init, this)
+            director.on(EventTable.Rounds_Win, this.getWin, this)
         }
     
         private closeEventListener() {
-            director.off(eventTable.All_Init, this.init, this)
-            director.off(eventTable.Rounds_Win, this.getWin, this)
+            director.off(EventTable.All_Init, this.init, this)
+            director.off(EventTable.Rounds_Win, this.getWin, this)
         }
     
         protected onDestroy(): void {

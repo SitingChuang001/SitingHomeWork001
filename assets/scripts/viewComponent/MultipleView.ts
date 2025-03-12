@@ -1,5 +1,5 @@
 import { _decorator, Component, director, Label, Node } from 'cc';
-import { eventTable } from './eventTable';
+import { EventTable } from '../EventTable';
 const { ccclass, property } = _decorator;
 
 @ccclass('multipleView')
@@ -11,18 +11,18 @@ export class multipleView extends Component {
 
     protected start(): void {
         this.init()
-        director.on(eventTable.All_Init, this.init, this)
-        director.on(eventTable.Multiple_Win, this.getWin, this)
+        director.on(EventTable.All_Init, this.init, this)
+        director.on(EventTable.Multiple_Win, this.getWin, this)
     }
 
     private openEventListener() {
-        director.on(eventTable.All_Init, this.init, this)
-        director.on(eventTable.Multiple_Win, this.getWin, this)
+        director.on(EventTable.All_Init, this.init, this)
+        director.on(EventTable.Multiple_Win, this.getWin, this)
     }
 
     private closeEventListener() {
-        director.off(eventTable.All_Init, this.init, this)
-        director.off(eventTable.Multiple_Win, this.getWin, this)
+        director.off(EventTable.All_Init, this.init, this)
+        director.off(EventTable.Multiple_Win, this.getWin, this)
     }
 
     protected onDestroy(): void {

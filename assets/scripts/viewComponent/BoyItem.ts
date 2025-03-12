@@ -1,9 +1,9 @@
 import { _decorator, Color, Component, director, Label, Node, sp } from 'cc';
-import { eventTable } from './eventTable';
+import { EventTable } from '../EventTable';
 const { ccclass, property } = _decorator;
 
 @ccclass('boyPrefab')
-export class boyPrefab extends Component {
+export class BoyItem extends Component {
     private index: number
     private _allReadyWin: boolean = false
     get allReadyWin(): boolean {
@@ -20,19 +20,19 @@ export class boyPrefab extends Component {
         this.openEventListener()
         this.spine.setCompleteListener((trackEntry: sp.spine.TrackEntry) => {
             if (trackEntry.animation.name === "hit") {
-                director.emit(eventTable.Show_End_Complete)
+                director.emit(EventTable.Show_End_Complete)
             }
         });
     }
 
     private openEventListener() {
-        director.on(eventTable.All_Init, this.init, this)
-        director.on(eventTable.Game_Over, this.gameOver, this)
+        director.on(EventTable.All_Init, this.init, this)
+        director.on(EventTable.Game_Over, this.gameOver, this)
     }
 
     private closeEventListener() {
-        director.off(eventTable.All_Init, this.init, this)
-        director.off(eventTable.Game_Over, this.gameOver, this)
+        director.off(EventTable.All_Init, this.init, this)
+        director.off(EventTable.Game_Over, this.gameOver, this)
         this.turnOffClick()
     }
 
@@ -91,7 +91,7 @@ export class boyPrefab extends Component {
     }
 
     private onClick() {
-        director.emit(eventTable.Item_Click, this.index)
+        director.emit(EventTable.Item_Click, this.index)
     }
 
 }
