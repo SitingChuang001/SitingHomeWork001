@@ -33,6 +33,7 @@ export class boyPrefab extends Component {
     private closeEventListener() {
         director.off(eventTable.All_Init, this.init, this)
         director.off(eventTable.Game_Over, this.gameOver, this)
+        this.turnOffClick()
     }
 
     protected onDestroy(): void {
