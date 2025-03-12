@@ -2,8 +2,8 @@ import { _decorator, Component, director, Label, Node } from 'cc';
 import { EventTable } from '../EventTable';
 const { ccclass, property } = _decorator;
 
-@ccclass('roundsView')
-export class roundsView extends Component {
+@ccclass('RoundsView')
+export class RoundsView extends Component {
         @property(Label)
         private numLabel: Label
     

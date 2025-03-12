@@ -2,8 +2,8 @@ import { _decorator, Button, Component, director, Node } from 'cc';
 import { EventTable } from '../EventTable';
 const { ccclass, property } = _decorator;
 
-@ccclass('restartButtonView')
-export class restartButtonView extends Component {
+@ccclass('RestartButtonView')
+export class RestartButtonView extends Component {
 
     protected onLoad(): void {
         this.init()
