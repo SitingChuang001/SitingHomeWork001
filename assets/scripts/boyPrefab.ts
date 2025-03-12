@@ -17,8 +17,7 @@ export class boyPrefab extends Component {
 
     protected onLoad(): void {
         this.spine = this.node.getComponent(sp.Skeleton)
-        director.on(eventTable.All_Init, this.init, this)
-        director.on(eventTable.Game_Over, this.gameOver, this)
+        this.openEventListener()
         this.spine.setCompleteListener((trackEntry: sp.spine.TrackEntry) => {
             if (trackEntry.animation.name === "hit") {
                 director.emit(eventTable.Show_End_Complete)
@@ -26,6 +25,19 @@ export class boyPrefab extends Component {
         });
     }
 
+    private openEventListener() {
+        director.on(eventTable.All_Init, this.init, this)
+        director.on(eventTable.Game_Over, this.gameOver, this)
+    }
+
+    private closeEventListener() {
+        director.off(eventTable.All_Init, this.init, this)
+        director.off(eventTable.Game_Over, this.gameOver, this)
+    }
+
+    protected onDestroy(): void {
+        this.closeEventListener()
+    }
     protected onEnable(): void {
         this.init()
     }
@@ -73,7 +85,7 @@ export class boyPrefab extends Component {
         this.clickNode.off(Node.EventType.MOUSE_UP, this.onClick, this)
     }
 
-    private turnOnClick(){
+    private turnOnClick() {
         this.clickNode.on(Node.EventType.MOUSE_UP, this.onClick, this)
     }
 

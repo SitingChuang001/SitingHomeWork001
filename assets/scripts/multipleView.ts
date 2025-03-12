@@ -14,13 +14,30 @@ export class multipleView extends Component {
         director.on(eventTable.All_Init, this.init, this)
         director.on(eventTable.Multiple_Win, this.getWin, this)
     }
+
+    private openEventListener() {
+        director.on(eventTable.All_Init, this.init, this)
+        director.on(eventTable.Multiple_Win, this.getWin, this)
+    }
+
+    private closeEventListener() {
+        director.off(eventTable.All_Init, this.init, this)
+        director.off(eventTable.Multiple_Win, this.getWin, this)
+    }
+
+    protected onDestroy(): void {
+        this.closeEventListener()
+    }
+
     private init() {
         this.curNum = 1
         this.setText("X1")
     }
+
     private setText(str: string) {
         this.numLabel.string = str
     }
+
     private getWin(winNum: number) {
         this.curNum *= winNum
         this.setText("X "+this.curNum.toString())

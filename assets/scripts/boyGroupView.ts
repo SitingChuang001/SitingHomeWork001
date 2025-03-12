@@ -10,11 +10,26 @@ export class boyGroupView extends Component {
     @property({type:[String]})
     private result: string[] = ['x2', 'x2', '+1', 'end', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2', 'x2']
     private prefabViews: Array<boyPrefab> = []
+
     start() {
+        this.openEventListener()
+        this.createPrefabs()
+    }
+
+    private openEventListener() {
         director.on(eventTable.Item_Click, this.setResult, this)
         director.on(eventTable.Show_End_Complete, this.gameOver, this)
         director.on(eventTable.All_Init,this.init,this)
-        this.createPrefabs()
+    }
+
+    private closeEventListener() {
+        director.off(eventTable.Item_Click, this.setResult, this)
+        director.off(eventTable.Show_End_Complete, this.gameOver, this)
+        director.off(eventTable.All_Init,this.init,this)
+    }
+
+    protected onDestroy(): void {
+        this.closeEventListener()
     }
 
     private createPrefabs() {
