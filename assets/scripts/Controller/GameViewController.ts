@@ -1,8 +1,7 @@
-import { _decorator, CCInteger,Node, Component, } from 'cc';
+import { _decorator, CCInteger, Node, Component, instantiate, } from 'cc';
 import { MultipleView } from '../viewComponent/MultipleView';
 import { RoundsView } from '../viewComponent/RoundsView';
-import { RestartButtonView } from '../viewComponent/RestartButtonView';
-import { BoyGroupView } from '../viewComponent/BoyGroupView';
+import { BoyItem, ItemState } from '../viewComponent/BoyItem';
 const { ccclass, property } = _decorator;
 
 @ccclass('GameViewController')
@@ -15,41 +14,55 @@ export class GameViewController extends Component {
     private roundsView: RoundsView
     @property(Node)
     private restartButton: Node
-    @property(BoyGroupView)
-    private boyGroupView: BoyGroupView
+    @property(Node)
+    private bouLayout: Node
 
     private result: string[]
     private opratiors: string[] = ["+", "x"]
     private multiple: number
     private round: number
+    private itemsView: Array<BoyItem> = []
 
     protected onLoad() {
         this.init()
-        this.boyGroupView.createPrefabs(this.resultCount, this)
+        this.createPrefabs(this.resultCount, this)
     }
 
     private init() {
-        this.boyGroupView.init()
         this.restartButton.active = false
         this.multiple = 1
         this.multipleView.setText(this.multiple.toString())
         this.round = 0
         this.roundsView.setText(this.round.toString())
         this.randomResult()
+        this.itemsView.forEach((item) => {
+            item.stateChanged(ItemState.Init)
+        })
     }
-
+    public createPrefabs(length: number, controller: GameViewController) {
+        this.itemsView = new Array<BoyItem>(length)
+        var firstNode = this.bouLayout.children[0]
+        this.itemsView[0] = firstNode.getComponent(BoyItem)
+        this.itemsView[0].setIndex(0)
+        this.itemsView[0].setCallBack(this.setResult.bind(this), this.gameOver.bind(this))
+        for (var i = 1; i < length; i++) {
+            let prefabNode = instantiate(firstNode)
+            this.bouLayout.addChild(prefabNode)
+            this.itemsView[i] = prefabNode.getComponent(BoyItem)
+            this.itemsView[i].setIndex(i)
+            this.itemsView[i].setCallBack(this.setResult.bind(this), this.gameOver.bind(this))
+        }
+    }
+    public showWin(index: number, str: string) {
+        this.itemsView[index].showAnimation(PlayType.Win, str)
+    }
     private setMultiple(winText: string) {
-        this.multiple *= parseInt(winText)
+        this.multiple += parseInt(winText)
         this.multipleView.setText(this.multiple.toString())
     }
 
     private setRounds(winText: string) {
         this.roundsView.setText(winText)
-    }
-
-    public gameOver() {
-        this.boyGroupView.gameOver(this.result)
-        this.restartButton.active = true
     }
 
     public setResult(index: number) {
@@ -58,17 +71,33 @@ export class GameViewController extends Component {
         var words = resultText.split("")
         switch (words[0]) {
             case "E":
-                this.boyGroupView.showEnd(index, resultText)
+                this.showEnd(index, resultText)
                 break
             case "x":
                 this.setMultiple(resultText.split("x")[1])
-                this.boyGroupView.showWin(index, resultText)
+                this.showWin(index, resultText)
                 break
             case "+":
                 this.setRounds(resultText.split("+")[1])
-                this.boyGroupView.showWin(index, resultText)
+                this.showWin(index, resultText)
                 break
         }
+    }
+    public showEnd(index: number, str: string) {
+        this.itemsView[index].showAnimation(PlayType.End, str)
+        this.itemsView.forEach((item) => {
+            item.turnOffClick()
+        })
+    }
+    public gameOver() {
+        console.log("Siting")
+        this.itemsView.forEach(element => {
+            if (element.curState != ItemState.Complete) {
+                element.showAnimation(PlayType.Game_Over, this.result[0])
+                this.result.shift()
+            }
+        });
+        this.restartButton.active = true
     }
 
 

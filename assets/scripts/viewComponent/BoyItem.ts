@@ -1,5 +1,4 @@
 import { _decorator, Button, Color, Component, DebugMode, director, Label, sp } from 'cc';
-import { EventTable } from '../EventTable';
 import { GameViewController, PlayType } from '../Controller/GameViewController';
 const { ccclass, property } = _decorator;
 
@@ -10,11 +9,12 @@ export class BoyItem extends Component {
     @property(Button)
     private clickNode: Button
 
-    private controller: GameViewController
-
     private index: number
     public curState: ItemState
     private spine: sp.Skeleton
+    private resultCb: (index: number) => {}
+    private gameOverCb: () => void
+
 
     protected onLoad(): void {
         this.spine = this.node.getComponent(sp.Skeleton)
@@ -28,8 +28,9 @@ export class BoyItem extends Component {
         this.stateChanged(ItemState.Init)
     }
 
-    public setComtroller(contor: GameViewController) {
-        this.controller = contor
+    public setCallBack(resultCallBack: (index: number) => {}, gameOverCallBack: () => void) {
+        this.resultCb = resultCallBack
+        this.gameOverCb = gameOverCallBack
     }
 
     private init() {
@@ -72,23 +73,34 @@ export class BoyItem extends Component {
         this.stateChanged(ItemState.Complete)
     }
 
-    private win(str: string) {
-        this.spine.setCompleteListener(() => {
-            this.spine.setAnimation(0, animationName.Hit, false)
-            this.spine.setCompleteListener(() => { })
-        })
-        this.spine.setAnimation(0, animationName.Win, false)
+    private async win(str: string) {
         this.setText(str)
+        await this.playAnimation(animationName.Win)
+        await this.playAnimation(animationName.Hit)
     }
 
-    private end(str: string) {
-        this.spine.setCompleteListener(() => {
-            this.spine.setCompleteListener(() => { this.controller.gameOver() })
-            this.spine.setAnimation(0, animationName.Death, false)
-        })
-        this.spine.setAnimation(0, animationName.Win, false)
+    private async end(str: string) {
         this.setText(str)
         this.spine.color = new Color("#3A3131")
+        await this.playAnimation(animationName.Win)
+        await this.playAnimation(animationName.Death)
+        this.gameOverCb()
+    }
+
+    private playAnimation(name: string): Promise<void> {
+        return new Promise((resolve) => {
+            if (!this.spine) {
+                resolve()
+                return
+            }
+
+            this.spine.setAnimation(0, name, false)
+            this.spine.setCompleteListener((trackEntry) => {
+                if (trackEntry.animation.name === name) {
+                    resolve()
+                }
+            });
+        });
     }
 
     private complete() {
@@ -112,7 +124,7 @@ export class BoyItem extends Component {
     }
 
     private onClick() {
-        this.controller.setResult(this.index)
+        this.resultCb(this.index)
     }
 
     public stateChanged(state: ItemState) {
